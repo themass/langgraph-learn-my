@@ -1,0 +1,25 @@
+{
+  "video_links": [
+    "https://8015.o9hx3f-s8jamrmtps5.sbs/0/e6/79/4f/1a384e695c7e5553b2ea13aa7a/chunklist_w.m3u8?v=1759636368-0pRDFVkKkavLBTJomTSSt%2FAHGk3fZLHdwZExioNukUM%3D',type:"
+  ],
+  "main_video_url": "https://8015.o9hx3f-s8jamrmtps5.sbs/0/e6/79/4f/1a384e695c7e5553b2ea13aa7a/chunklist_w.m3u8?v=1759636368-0pRDFVkKkavLBTJomTSSt%2FAHGk3fZLHdwZExioNukUM%3D",
+  "analysis": [
+    {
+      "url": "https://8015.o9hx3f-s8jamrmtps5.sbs/0/e6/79/4f/1a384e695c7e5553b2ea13aa7a/chunklist_w.m3u8?v=1759636368-0pRDFVkKkavLBTJomTSSt%2FAHGk3fZLHdwZExioNukUM%3D',type:",
+      "domain": "8015.o9hx3f-s8jamrmtps5.sbs",
+      "type": "HLS (HTTP Live Streaming)",
+      "parameters": {
+        "v": "1759636368-0pRDFVkKkavLBTJomTSSt/AHGk3fZLHdwZExioNukUM=',type:"
+      },
+      "is_valid": true
+    }
+  ],
+  "test_results": [
+    {
+      "status_code": 403,
+      "accessible": false,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": ""
+    }
+  ]
+}

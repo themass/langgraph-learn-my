@@ -1,0 +1,7 @@
+# 微信文章 URL 列表示例
+# 格式: 每行一个 mp.weixin.qq.com 的 URL
+# 注释行以 # 开头
+
+# 示例（请替换为您的真实 URL）:
+# https://mp.weixin.qq.com/s/xxxxxxxxxxxx
+# https://mp.weixin.qq.com/s/yyyyyyyyyyyy

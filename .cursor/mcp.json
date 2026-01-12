@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "Test Server": {
+      "type": "stdio",
+      "command": "/Users/liguoqing/.pyenv/shims/python3",
+      "args": [
+        "/Users/liguoqing/work/langgraph-learn/learn/mcp_server_test/server.py"
+      ]
+    }
+  }
+}

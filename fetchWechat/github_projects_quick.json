@@ -1,0 +1,5544 @@
+{
+  "total_count": 290,
+  "repositories": [
+    {
+      "url": "https://github.com/01-ai/Yi",
+      "repo": "01-ai/Yi",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/01-ai/Yi"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12036 抢票助手开源,星标 12.7K !"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/18380438200/Tiktok",
+      "repo": "18380438200/Tiktok",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/18380438200/Tiktok"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "repo": "1Panel-dev/MaxKB",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/1Panel-dev/MaxKB"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 4 个 GitHub 上令人惊艳的项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/20100507/emotional",
+      "repo": "20100507/emotional",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/20100507/emotional\\_analysis"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "repo": "AI4Finance-Foundation/FinGPT",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/AI4Finance-Foundation/FinGPT"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "repo": "AIDC-AI/Pixelle-Video",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/AIDC-AI/Pixelle-Video"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/AmazingAng/WTF-Solidity",
+      "repo": "AmazingAng/WTF-Solidity",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/AmazingAng/WTF-Solidity"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Anning01/AIMedia",
+      "repo": "Anning01/AIMedia",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Anning01/AIMedia"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/AnsGoo/openDataV",
+      "repo": "AnsGoo/openDataV",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/AnsGoo/openDataV"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/AntonOsika/gpt-engineer",
+      "repo": "AntonOsika/gpt-engineer",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/AntonOsika/gpt-engineer"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Awesome-Windows/Awesome",
+      "repo": "Awesome-Windows/Awesome",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "repo": "BloopAI/vibe-kanban",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/BloopAI/vibe-kanban"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 6 个本周 火火火火 的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/BuilderIO/gpt-crawler",
+      "repo": "BuilderIO/gpt-crawler",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/BuilderIO/gpt-crawler"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐本周 5 个 火火火 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/CaviraOSS/PageLM",
+      "repo": "CaviraOSS/PageLM",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/CaviraOSS/PageLM"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Google 神级生产力工具,所有 GitHub 开源平替都找到了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 2 个贼火开源 MCP, GitHub 上 1 万多 Star."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/CodeEditApp/CodeEdit",
+      "repo": "CodeEditApp/CodeEdit",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/CodeEditApp/CodeEdit"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这一周 火火火 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这一周 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "repo": "CompVis/stable-diffusion",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/CompVis/stable-diffusion"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Cool-Coding/remote-desktop-control",
+      "repo": "Cool-Coding/remote-desktop-control",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Cool-Coding/remote-desktop-control"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "repo": "CopilotKit/CopilotKit",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/CopilotKit/CopilotKit/blob/main/README.md"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个令人惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/DavidHDev/react-bits",
+      "repo": "DavidHDev/react-bits",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/DavidHDev/react-bits"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个超神 GitHub 开源项目,绝对给劲儿."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/DearVa/Everywhere",
+      "repo": "DearVa/Everywhere",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/DearVa/Everywhere"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "repo": "DigitalPlatDev/FreeDomain",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/DigitalPlatDev/FreeDomain"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+      "repo": "Dooy/chatgpt-web-midjourney-proxy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Dooy/chatgpt-web-midjourney-proxy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 火火火火 的 AI 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/DrewThomasson/ebook2audiobook",
+      "repo": "DrewThomasson/ebook2audiobook",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/DrewThomasson/ebook2audiobook"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 10 月份 YYDS 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "repo": "EbookFoundation/free-programming-books",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/EbookFoundation/free-programming-books",
+        "https://github.com/EbookFoundation/free-programming-books"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 10 月份 YYDS 的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Evil0ctal/Douyin",
+      "repo": "Evil0ctal/Douyin",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Evil0ctal/Douyin\\_TikTok\\_Download\\_API"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "12306 抢票开源脚本登上热榜!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "repo": "FlowiseAI/Flowise",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/FlowiseAI/Flowise",
+        "开源地址：https://github.com/FlowiseAI/Flowise"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火的 AI 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "repo": "FoundationAgents/OpenManus",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/FoundationAgents/OpenManus"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "repo": "FreeRDP/FreeRDP",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/FreeRDP/FreeRDP"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
+      "repo": "FunAudioLLM/Fun-Audio-Chat",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/FunAudioLLM/Fun-Audio-Chat"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 5 个大厂最近开源的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "repo": "GyulyVGC/sniffnet",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/GyulyVGC/sniffnet"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "repo": "ItzCrazyKns/Perplexica",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/ItzCrazyKns/Perplexica"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+      "repo": "JanDeDobbeleer/oh-my-posh",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/JanDeDobbeleer/oh-my-posh 参考文档：https://ohmyposh.dev/docs/"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/JasonRobertDestiny/MeetSpot",
+      "repo": "JasonRobertDestiny/MeetSpot",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/JasonRobertDestiny/MeetSpot"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/JunzhouLiu/BILIBILI-HELPER",
+      "repo": "JunzhouLiu/BILIBILI-HELPER",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/JunzhouLiu/BILIBILI-HELPER"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "太好玩了!Github 上的这个库也能帮你逛 B站!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/KRTirtho/spotube",
+      "repo": "KRTirtho/spotube",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/KRTirtho/spotube"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12036 抢票助手开源,星标 12.7K !"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Kaiyiwing/qwerty-learner",
+      "repo": "Kaiyiwing/qwerty-learner",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Kaiyiwing/qwerty-learner"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8 月份 火火火火 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Klavis-AI/klavis",
+      "repo": "Klavis-AI/klavis",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Klavis-AI/klavis"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/KsanaDock/Microverse",
+      "repo": "KsanaDock/Microverse",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/KsanaDock/Microverse"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个超神 GitHub 开源项目,绝对给劲儿."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Licoy/ChatGPT-Midjourney",
+      "repo": "Licoy/ChatGPT-Midjourney",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Licoy/ChatGPT-Midjourney"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/LisaDziuba/Awesome-Design-Tools_",
+      "repo": "LisaDziuba/Awesome-Design-Tools_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/LisaDziuba/Awesome-Design-Tools_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/LorisYounger/VPet",
+      "repo": "LorisYounger/VPet",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/LorisYounger/VPet"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8 月份 火火火火 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/LuckyZXL2016/Movie",
+      "repo": "LuckyZXL2016/Movie",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/LuckyZXL2016/Movie\\_Recommend"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/LuckyZXL2016/News",
+      "repo": "LuckyZXL2016/News",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/LuckyZXL2016/News\\_Spark =============================================="
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/MODSetter/SurfSense",
+      "repo": "MODSetter/SurfSense",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/MODSetter/SurfSense"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Google 神级生产力工具,所有 GitHub 开源平替都找到了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "repo": "MichaelCade/90DaysOfDevOps",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/MichaelCade/90DaysOfDevOps"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这一周 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/MineDojo/NitroGen",
+      "repo": "MineDojo/NitroGen",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/MineDojo/NitroGen"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 5 个大厂最近开源的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/MineDojo/NitroGen02Meta",
+      "repo": "MineDojo/NitroGen02Meta",
+      "description": "",
+      "context_from_articles": [
+        "发布时间: 2026-1-6 摘要: 开源地址:https://github.com/MineDojo/NitroGen02Meta 推出音频分割模型Meta 之前的 Segment Anything Model 在图像分割领域可以..."
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 5 个大厂最近开源的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/MiroMindAI/MiroThinker",
+      "repo": "MiroMindAI/MiroThinker",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/MiroMindAI/MiroThinker"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 2300 点赞的搜索 Agent,有点惊艳啊."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "repo": "NanmiCoder/MediaCrawler",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/NanmiCoder/MediaCrawler"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/NaoTu/DesktopNaotu_",
+      "repo": "NaoTu/DesktopNaotu_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/NaoTu/DesktopNaotu_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/OpenAISpace/ai-trend-publish",
+      "repo": "OpenAISpace/ai-trend-publish",
+      "description": "",
+      "context_from_articles": [
+        "GitHub 地址：https://github.com/OpenAISpace/ai-trend-publish"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "repo": "OpenBMB/ChatDev",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/OpenBMB/ChatDev"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/OpenEmu/OpenEmu",
+      "repo": "OpenEmu/OpenEmu",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/OpenEmu/OpenEmu"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/OpenRA/OpenRA",
+      "repo": "OpenRA/OpenRA",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/OpenRA/OpenRA"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/OpenRCT2/OpenRCT2",
+      "repo": "OpenRCT2/OpenRCT2",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/OpenRCT2/OpenRCT2"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/OpenTTD/OpenTTD",
+      "repo": "OpenTTD/OpenTTD",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/OpenTTD/OpenTTD"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/PRIS-CV/DemoFusion",
+      "repo": "PRIS-CV/DemoFusion",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/PRIS-CV/DemoFusion"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个令人惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "repo": "PaddlePaddle/PaddleOCR",
+      "description": "",
+      "context_from_articles": [
+        "Github：https://github.com/PaddlePaddle/PaddleOCR"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub上最牛的OCR开源项目,超5万人点赞!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+      "repo": "PlexPt/awesome-chatgpt-prompts-zh",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Portkey-AI/gateway",
+      "repo": "Portkey-AI/gateway",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Portkey-AI/gateway"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个最近很火的 AI 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/QwenLM/Qwen-7B",
+      "repo": "QwenLM/Qwen-7B",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/QwenLM/Qwen-7B"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/QwenLM/Qwen-Image-Layered",
+      "repo": "QwenLM/Qwen-Image-Layered",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/QwenLM/Qwen-Image-Layered"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 5 个大厂最近开源的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/QwenLM/Qwen3",
+      "repo": "QwenLM/Qwen3",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/QwenLM/Qwen3"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/RAOE/show-videos",
+      "repo": "RAOE/show-videos",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/RAOE/show-videos"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "repo": "RVC-Boss/GPT-SoVITS",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/RVC-Boss/GPT-SoVITS"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 火火火火 的 AI 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/RanFeng/clipsketch-ai",
+      "repo": "RanFeng/clipsketch-ai",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/RanFeng/clipsketch-ai"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+      "repo": "RayWangQvQ/BiliBiliToolPro",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/RayWangQvQ/BiliBiliToolPro"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Ryujinx/Ryujinx",
+      "repo": "Ryujinx/Ryujinx",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Ryujinx/Ryujinx"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/SFTtech/openage",
+      "repo": "SFTtech/openage",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/SFTtech/openage"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/SawyerHood/draw-a-ui",
+      "repo": "SawyerHood/draw-a-ui",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/SawyerHood/draw-a-ui"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐本周 5 个 火火火 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Shubhamsaboo/awesome-llm-apps"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "新挖掘了 3 个牛哄哄的 GitHub 教程库,有点意思啊."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "repo": "Significant-Gravitas/AutoGPT",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/Significant-Gravitas/AutoGPT"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/SmartKeyerror/Psyduck",
+      "repo": "SmartKeyerror/Psyduck",
+      "description": "",
+      "context_from_articles": [
+        "> > 仓库地址：https://github.com/SmartKeyerror/Psyduck >"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这个火了..."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/StanGirard/quivr",
+      "repo": "StanGirard/quivr",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/StanGirard/quivr"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个火火火的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/THUDM/ChatGLM-6B",
+      "repo": "THUDM/ChatGLM-6B",
+      "description": "",
+      "context_from_articles": [
+        "消费级 PC 大模型：https://github.com/THUDM/ChatGLM-6B 全平台抖音抓包：https://github.com/wwengg/douyin"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/TabbyML/tabby",
+      "repo": "TabbyML/tabby",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/TabbyML/tabby"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个令人惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+      "repo": "Tencent-Hunyuan/HunyuanVideo",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Tencent-Hunyuan/HunyuanVideo"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Tencent/WeKnora",
+      "repo": "Tencent/WeKnora",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Tencent/WeKnora"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个超级实用的 GitHub 开源项目,速速收藏."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Tencent/cherry-markdown",
+      "repo": "Tencent/cherry-markdown",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Tencent/cherry-markdown"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个腾讯开源的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个 yyds 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Tencent/lemon-cleaner",
+      "repo": "Tencent/lemon-cleaner",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Tencent/lemon-cleaner"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个腾讯开源的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Tencent/secguide",
+      "repo": "Tencent/secguide",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Tencent/secguide"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个腾讯开源的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Tencent/spring-cloud-tencent",
+      "repo": "Tencent/spring-cloud-tencent",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Tencent/spring-cloud-tencent"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/TencentARC/GFPGAN",
+      "repo": "TencentARC/GFPGAN",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/TencentARC/GFPGAN"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这一周 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Textualize/textual",
+      "repo": "Textualize/textual",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/Textualize/textual"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个开源工具"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/TheRamU/Fay",
+      "repo": "TheRamU/Fay",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/TheRamU/Fay"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ToolJet/ToolJet",
+      "repo": "ToolJet/ToolJet",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/ToolJet/ToolJet"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个开源工具"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/TransformerOptimus/SuperAGI",
+      "repo": "TransformerOptimus/SuperAGI",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/TransformerOptimus/SuperAGI",
+        "开源地址：https://github.com/TransformerOptimus/SuperAGI"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个 yyds 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/TurixAI/TuriX-CUA",
+      "repo": "TurixAI/TuriX-CUA",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/TurixAI/TuriX-CUA"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让 AI 接管 Windows 和 MacOS,这个 GitHub 开源项目牛啊."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+      "repo": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+        "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+        "开源地址：https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+        "历史盘点：https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个火火火的 GitHub 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "标星 43.1 K!最火跨平台笔记开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这一周 火火火 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个最近很火的 AI 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 6 个 GitHub 开源项目泰酷辣!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "撸了一个高仿 B站!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令人惊艳开源项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 4 个 GitHub 上令人惊艳的项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "8 月份 火火火火 的 GitHub 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火的 AI 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "12306 抢票开源脚本登上热榜!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 火火火火 的 AI 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "12036 抢票助手开源,星标 12.7K !"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/WerWolv/ImHex",
+      "repo": "WerWolv/ImHex",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/WerWolv/ImHex"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/abi/screenshot-to-code",
+      "repo": "abi/screenshot-to-code",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/abi/screenshot-to-code 在线版本：https://picoapps.xyz/free-tools/screenshot-to-code"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐本周 5 个 火火火 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/adlered/bolo-solo",
+      "repo": "adlered/bolo-solo",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/adlered/bolo-solo"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/afatcoder/LeetcodeTop",
+      "repo": "afatcoder/LeetcodeTop",
+      "description": "",
+      "context_from_articles": [
+        "GitHub地址：https://github.com/afatcoder/LeetcodeTop"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/akanimax/T2F",
+      "repo": "akanimax/T2F",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/akanimax/T2F"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/alembics/disco-diffusion",
+      "repo": "alembics/disco-diffusion",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/alembics/disco-diffusion"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "anthropics/claude-cookbooks",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/anthropics/claude-cookbooks"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 10 月份 YYDS 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/anthropics/prompt-eng-interactive-tutorial"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 10 月份 YYDS 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/anthropics/skills",
+      "repo": "anthropics/skills",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/anthropics/skills"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 6 个本周 火火火火 的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/atelier-anchor/smiley-sans",
+      "repo": "atelier-anchor/smiley-sans",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/atelier-anchor/smiley-sans"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/bigskysoftware/htmx",
+      "repo": "bigskysoftware/htmx",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/bigskysoftware/htmx"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个火火火的 GitHub 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/binary-husky/gpt",
+      "repo": "binary-husky/gpt",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/binary-husky/gpt\\_academic"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐本周 5 个 火火火 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/binjie09/one-api",
+      "repo": "binjie09/one-api",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/binjie09/one-api"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/binwiederhier/ntfy",
+      "repo": "binwiederhier/ntfy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/binwiederhier/ntfy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/black-forest-labs/flux",
+      "repo": "black-forest-labs/flux",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/black-forest-labs/flux"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/boyan01/flutter-netease-music",
+      "repo": "boyan01/flutter-netease-music",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/boyan01/flutter-netease-music"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/brannondorsey/wifi-cracking",
+      "repo": "brannondorsey/wifi-cracking",
+      "description": "",
+      "context_from_articles": [
+        "开源项目：https://github.com/brannondorsey/wifi-cracking"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/breaking-brake/cc-wf-studio",
+      "repo": "breaking-brake/cc-wf-studio",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/breaking-brake/cc-wf-studio"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 2300 人 Star 的 Claude Code 可视化工作流编辑器."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/bytebase/star-history",
+      "repo": "bytebase/star-history",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/bytebase/star-history官网：https://star-history.com/"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "想把 GitHub 逛明白这个工具必不可少!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/chaitin/SafeLine",
+      "repo": "chaitin/SafeLine",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/chaitin/SafeLine"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 1.8 万星的 Web 防火墙,国产开源神器."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这款国产 Web 防火墙工具,开源了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/chathub-dev/chathub",
+      "repo": "chathub-dev/chathub",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/chathub-dev/chathub"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/chaychan/TouTiao",
+      "repo": "chaychan/TouTiao",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/chaychan/TouTiao"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/cjpais/Handy",
+      "repo": "cjpais/Handy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/cjpais/Handy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 10 月份 YYDS 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/cline/cline",
+      "repo": "cline/cline",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/cline/cline"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "repo": "cocoindex-io/cocoindex",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/cocoindex-io/cocoindex"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/code-mcx/react-bilibili",
+      "repo": "code-mcx/react-bilibili",
+      "description": "",
+      "context_from_articles": [
+        "链接：https://github.com/code-mcx/react-bilibili"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/comfyanonymous/ComfyUI",
+      "repo": "comfyanonymous/ComfyUI",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/comfyanonymous/ComfyUI"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个火火火的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/conaticus/FileExplorer",
+      "repo": "conaticus/FileExplorer",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/conaticus/FileExplorer"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 6 个 GitHub 开源项目泰酷辣!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/cporter202/lovable-for-beginners",
+      "repo": "cporter202/lovable-for-beginners",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/cporter202/lovable-for-beginners"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "新挖掘了 3 个牛哄哄的 GitHub 教程库,有点意思啊."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/crewAIInc/crewAI",
+      "repo": "crewAIInc/crewAI",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/crewAIInc/crewAI"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/csmliu/STGAN",
+      "repo": "csmliu/STGAN",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/csmliu/STGAN"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/csunny/DB-GPT",
+      "repo": "csunny/DB-GPT",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/csunny/DB-GPT"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "repo": "czlonkowski/n8n-mcp",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/czlonkowski/n8n-mcp"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 2 个贼火开源 MCP, GitHub 上 1 万多 Star."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/danielgindi/Charts",
+      "repo": "danielgindi/Charts",
+      "description": "",
+      "context_from_articles": [
+        "开源项目：https://github.com/danielgindi/Charts"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个火火火的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/danielmiessler/Fabric",
+      "repo": "danielmiessler/Fabric",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/danielmiessler/Fabric"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/danistefanovic/build-your-own-x",
+      "repo": "danistefanovic/build-your-own-x",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/danistefanovic/build-your-own-x"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/danswer-ai/danswer",
+      "repo": "danswer-ai/danswer",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/danswer-ai/danswer"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个火火火的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/dataabc/weiboSpider",
+      "repo": "dataabc/weiboSpider",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/dataabc/weiboSpider"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/davila7/claude-code-templates",
+      "repo": "davila7/claude-code-templates",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/davila7/claude-code-templates"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 6 个本周 火火火火 的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "repo": "deepseek-ai/DeepSeek-R1",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/deepseek-ai/DeepSeek-R1"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/despoisj/DeepEyeControl",
+      "repo": "despoisj/DeepEyeControl",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/despoisj/DeepEyeControl"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/diasurgical/DevilutionX",
+      "repo": "diasurgical/DevilutionX",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/diasurgical/DevilutionX"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/digitalocean/nginxconfig.io",
+      "repo": "digitalocean/nginxconfig.io",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/digitalocean/nginxconfig.io"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/documenso/documenso",
+      "repo": "documenso/documenso",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/documenso/documenso"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8 月份 火火火火 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "repo": "donnemartin/system-design-primer",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/donnemartin/system-design-primer"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/dxx/react-bilibili",
+      "repo": "dxx/react-bilibili",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/dxx/react-bilibili"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "撸了一个高仿 B站!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/eosphoros-ai/DB-GPT",
+      "repo": "eosphoros-ai/DB-GPT",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/eosphoros-ai/DB-GPT"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者自荐的 4 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/excalidraw/excalidraw",
+      "repo": "excalidraw/excalidraw",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/excalidraw/excalidraw"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令人惊艳开源项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/facebookresearch/audiocraft",
+      "repo": "facebookresearch/audiocraft",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/facebookresearch/audiocraft"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/facebookresearch/sam-audio",
+      "repo": "facebookresearch/sam-audio",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/facebookresearch/sam-audio"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 5 个大厂最近开源的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/facefusion/facefusion",
+      "repo": "facefusion/facefusion",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/facefusion/facefusion"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火的 AI 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/geekan/MetaGPT",
+      "repo": "geekan/MetaGPT",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/geekan/MetaGPT",
+        "开源地址：https://github.com/geekan/MetaGPT"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个 yyds 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/geekyouth/SZT-bigdata",
+      "repo": "geekyouth/SZT-bigdata",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/geekyouth/SZT-bigdata"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/giantpinkrobots/varia",
+      "repo": "giantpinkrobots/varia",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/giantpinkrobots/varia"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个超级实用的 GitHub 开源项目,速速收藏."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/github/gitignore",
+      "repo": "github/gitignore",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/github/gitignore"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/gkd-kit/gkd",
+      "repo": "gkd-kit/gkd",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/gkd-kit/gkd"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个超级实用的 GitHub 开源项目,速速收藏."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/goodrain/rainbond",
+      "repo": "goodrain/rainbond",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/goodrain/rainbond"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/google/A2UI",
+      "repo": "google/A2UI",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/google/A2UI"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 5 个大厂最近开源的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/google/langextract",
+      "repo": "google/langextract",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/google/langextract"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/halo-dev/halo",
+      "repo": "halo-dev/halo",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/halo-dev/halo"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/hehonghui/the-economist-ebooks",
+      "repo": "hehonghui/the-economist-ebooks",
+      "description": "",
+      "context_from_articles": [
+        "GitHub 地址：https://github.com/hehonghui/the-economist-ebooks"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/hellodigua/ChatLab",
+      "repo": "hellodigua/ChatLab",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/hellodigua/ChatLab"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个小众但有趣的 GitHub 开源项目._1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/honghuangdc/soybean-admin",
+      "repo": "honghuangdc/soybean-admin",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/honghuangdc/soybean-admin"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "repo": "hpcaitech/Open-Sora",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/hpcaitech/Open-Sora"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/iCHAIT/awesome-macOS",
+      "repo": "iCHAIT/awesome-macOS",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/iCHAIT/awesome-macOS"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+      "repo": "imDazui/Tvlist-awesome-m3u-m3u8",
+      "description": "",
+      "context_from_articles": [
+        "GitHub地址：https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/immich-app/immich",
+      "repo": "immich-app/immich",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/immich-app/immich"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 6 个 GitHub 开源项目泰酷辣!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/infiniflow/ragflow",
+      "repo": "infiniflow/ragflow",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/infiniflow/ragflow"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 4 个 GitHub 上令人惊艳的项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/iptv-org/iptv",
+      "repo": "iptv-org/iptv",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/iptv-org/iptv"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 6 个本周 火火火火 的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/itorr/nbnhhsh",
+      "repo": "itorr/nbnhhsh",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/itorr/nbnhhsh"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "哈哈哈哈,「00 后黑话破解器」火爆 GitHub,这波操作我给满分!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "哈哈哈哈,「00 后黑话破解器」火爆 GitHub,这波操作我给满分!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "哈哈哈哈,「00 后黑话破解器」火爆 GitHub,这波操作我给满分!_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/itwanger/toBeBetterJavaer",
+      "repo": "itwanger/toBeBetterJavaer",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/itwanger/toBeBetterJavaer"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ixahmedxi/noodle",
+      "repo": "ixahmedxi/noodle",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/ixahmedxi/noodle"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 6 个 GitHub 开源项目泰酷辣!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jackfrued/Python-Interview-Bible",
+      "repo": "jackfrued/Python-Interview-Bible",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/jackfrued/Python-Interview-Bible"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "我在Github逛了3天,终于找到了这份Python面试宝典!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/janhq/jan",
+      "repo": "janhq/jan",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/janhq/jan"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令人惊艳开源项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jayfunc/BetterLyrics",
+      "repo": "jayfunc/BetterLyrics",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jayfunc/BetterLyrics"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "repo": "jaywcjlove/awesome-mac",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md_",
+        "开源地址：https://github.com/jaywcjlove/awesome-mac"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个超神 GitHub 开源项目,绝对给劲儿."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jaywcjlove/awesome-mac_",
+      "repo": "jaywcjlove/awesome-mac_",
+      "description": "",
+      "context_from_articles": [
+        "Awesome Mac: _https://github.com/jaywcjlove/awesome-mac_",
+        "Awesome Mac GitHub仓库: _https://github.com/jaywcjlove/awesome-mac_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Mac用户必备宝藏!这个GitHub项目让你不再错过任何优质软件"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Mac用户必备宝藏!这个GitHub项目让你不再错过任何优质软件"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jaywcjlove/reference",
+      "repo": "jaywcjlove/reference",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jaywcjlove/reference"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jeecgboot/jeecg-boot",
+      "repo": "jeecgboot/jeecg-boot",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jeecgboot/jeecg-boot"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12306 抢票开源脚本登上热榜!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jgraph/drawio",
+      "repo": "jgraph/drawio",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jgraph/drawio 开源地址：https://github.com/jgraph/drawio-desktop"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jgraph/drawio-desktop",
+      "repo": "jgraph/drawio-desktop",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jgraph/drawio 开源地址：https://github.com/jgraph/drawio-desktop"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jigish/slate",
+      "repo": "jigish/slate",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jigish/slate"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jlevy/the-art-of-command-line",
+      "repo": "jlevy/the-art-of-command-line",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/jlevy/the-art-of-command-line"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/junyanz/CycleGAN",
+      "repo": "junyanz/CycleGAN",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/junyanz/CycleGAN"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jynew/jynew",
+      "repo": "jynew/jynew",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jynew/jynew"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/jzhang38/TinyLlama",
+      "repo": "jzhang38/TinyLlama",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/jzhang38/TinyLlama"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个最近很火的 AI 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "repo": "kamranahmedse/developer-roadmap",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/kamranahmedse/developer-roadmap"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/karpathy/nanochat",
+      "repo": "karpathy/nanochat",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/karpathy/nanochat"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "3 天就斩获 20000 星!这个 GitHub 开源项目凭啥"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/komeiji-satori/Dress",
+      "repo": "komeiji-satori/Dress",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/komeiji-satori/Dress"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "程序员大佬女装登顶GitHub 热榜,太变态了!还以为逛 PornHub呢!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "程序员大佬女装登顶GitHub 热榜,太变态了!还以为逛 PornHub呢!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+      "repo": "kon9chunkit/GitHub-Chinese-Top-Charts",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Github中文项目排行榜,你永远想不到开发者都用它干了什么"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/kuaifan/dootask.git",
+      "repo": "kuaifan/dootask.git",
+      "description": "",
+      "context_from_articles": [
+        "\\ 或者你也可以使用https git clone https://github.com/kuaifan/dootask.git"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐一个开源的任务管理工具"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/kuchin/awesome-ceo",
+      "repo": "kuchin/awesome-ceo",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/kuchin/awesome-ceo"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "新挖掘了 3 个牛哄哄的 GitHub 教程库,有点意思啊."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/kunkundi/crossdesk",
+      "repo": "kunkundi/crossdesk",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/kunkundi/crossdesk"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个挺实用的 GitHub 开源项目,推荐给你._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/kyleduo/TinyPNG4Mac_",
+      "repo": "kyleduo/TinyPNG4Mac_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/kyleduo/TinyPNG4Mac_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/labring/FastGPT",
+      "repo": "labring/FastGPT",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/labring/FastGPT"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个近期火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lanceliao/china-holiday-calender",
+      "repo": "lanceliao/china-holiday-calender",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lanceliao/china-holiday-calender"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/langchain-ai/langchain",
+      "repo": "langchain-ai/langchain",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/langchain-ai/langchain"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/langgenius/dify",
+      "repo": "langgenius/dify",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/langgenius/dify",
+        "开源地址：https://github.com/langgenius/dify"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/laurent22/joplin",
+      "repo": "laurent22/joplin",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/laurent22/joplin"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "标星 43.1 K!最火跨平台笔记开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/letta-ai/letta",
+      "repo": "letta-ai/letta",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/letta-ai/letta"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lfnovo/open-notebook",
+      "repo": "lfnovo/open-notebook",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lfnovo/open-notebook"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Google 神级生产力工具,所有 GitHub 开源平替都找到了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lib-pku/libpku_",
+      "repo": "lib-pku/libpku_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/lib-pku/libpku_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/linexjlin/GPTs",
+      "repo": "linexjlin/GPTs",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/linexjlin/GPTs"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个最近很火的 AI 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lllyasviel/fooocus",
+      "repo": "lllyasviel/fooocus",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lllyasviel/fooocus"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lobehub/lobe-chat",
+      "repo": "lobehub/lobe-chat",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lobehub/lobe-chat"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个近期火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/luban-agi/Awesome-AIGC-Tutorials",
+      "repo": "luban-agi/Awesome-AIGC-Tutorials",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/luban-agi/Awesome-AIGC-Tutorials"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者自荐的 4 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/luochana/News",
+      "repo": "luochana/News",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/luochana/News\\_recommend"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lvwzhen/law-cn-ai",
+      "repo": "lvwzhen/law-cn-ai",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lvwzhen/law-cn-ai"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lxgw/LxgwWenKai",
+      "repo": "lxgw/LxgwWenKai",
+      "description": "",
+      "context_from_articles": [
+        "GitHub地址：https://github.com/lxgw/LxgwWenKai"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lyswhut/lx-music-desktop",
+      "repo": "lyswhut/lx-music-desktop",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lyswhut/lx-music-desktop 开源地址：https://github.com/lyswhut/lx-music-mobile"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/lyswhut/lx-music-mobile",
+      "repo": "lyswhut/lx-music-mobile",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/lyswhut/lx-music-desktop 开源地址：https://github.com/lyswhut/lx-music-mobile"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/maHidaka/ros",
+      "repo": "maHidaka/ros",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/maHidaka/ros\\_face"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/makeplane/plane",
+      "repo": "makeplane/plane",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/makeplane/plane"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个近期火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+      "repo": "mayooear/gpt4-pdf-chatbot-langchain",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/mayooear/gpt4-pdf-chatbot-langchain"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/meta-llama/llama3",
+      "repo": "meta-llama/llama3",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/meta-llama/llama3"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 4 个 GitHub 上令人惊艳的项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/microsoft/PowerToys",
+      "repo": "microsoft/PowerToys",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/microsoft/PowerToys"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个令人惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/microsoft/TaskWeaver",
+      "repo": "microsoft/TaskWeaver",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/microsoft/TaskWeaver"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 火火火火 的 AI 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/microsoft/autogen",
+      "repo": "microsoft/autogen",
+      "description": "",
+      "context_from_articles": [
+        "开源地址: https://github.com/microsoft/autogen"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "GitHub 上 10 个令人惊艳的 Agent 开发平台,太顶了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/microsoft/playwright",
+      "repo": "microsoft/playwright",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/microsoft/playwright"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 月份炫炫炫的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/mindskip/xzs",
+      "repo": "mindskip/xzs",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/mindskip/xzs"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/miurla/morphic",
+      "repo": "miurla/morphic",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/miurla/morphic"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/mlabonne/llm-course",
+      "repo": "mlabonne/llm-course",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/mlabonne/llm-course"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12036 抢票助手开源,星标 12.7K !"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/mqyqingfeng/Blog",
+      "repo": "mqyqingfeng/Blog",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/mqyqingfeng/Blog"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/mylxsw/aidea",
+      "repo": "mylxsw/aidea",
+      "description": "",
+      "context_from_articles": [
+        "客户端：https://github.com/mylxsw/aidea 服务端：https://github.com/mylxsw/aidea-server"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者自荐的 4 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/mylxsw/aidea-server",
+      "repo": "mylxsw/aidea-server",
+      "description": "",
+      "context_from_articles": [
+        "客户端：https://github.com/mylxsw/aidea 服务端：https://github.com/mylxsw/aidea-server"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者自荐的 4 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/n8n-io/n8n",
+      "repo": "n8n-io/n8n",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/n8n-io/n8n"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "2025 年 11 个神级 AI 开源平替,GitHub 杀疯了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting",
+      "repo": "nbei/Deep-Flow-Guided-Video-Inpainting",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "让你直呼「卧槽」的 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/netease-youdao/QAnything",
+      "repo": "netease-youdao/QAnything",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/netease-youdao/QAnything"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个 yyds 的 GitHub 开源项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/nextui-org/nextui",
+      "repo": "nextui-org/nextui",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/nextui-org/nextui"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8月份最火的 5 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/nibzard/awesome-agentic-patterns",
+      "repo": "nibzard/awesome-agentic-patterns",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/nibzard/awesome-agentic-patterns"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "新挖掘了 3 个牛哄哄的 GitHub 教程库,有点意思啊."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/nocodb/nocodb",
+      "repo": "nocodb/nocodb",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/nocodb/nocodb"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个令人惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "repo": "ohmyzsh/ohmyzsh",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/ohmyzsh/ohmyzsh"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/opencurve/curve",
+      "repo": "opencurve/curve",
+      "description": "",
+      "context_from_articles": [
+        "> > https://github.com/opencurve/curve",
+        "开源地址：https://github.com/opencurve/curve"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/oxc-project/oxc",
+      "repo": "oxc-project/oxc",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/oxc-project/oxc"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个近期火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/patriciogonzalezvivo/glslViewer",
+      "repo": "patriciogonzalezvivo/glslViewer",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/patriciogonzalezvivo/glslViewer"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个开源工具"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/pengLP/sina",
+      "repo": "pengLP/sina",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/pengLP/sina\\_analysis"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/phachon/mm-wiki",
+      "repo": "phachon/mm-wiki",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/phachon/mm-wiki"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/phidatahq/phidata",
+      "repo": "phidatahq/phidata",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/phidatahq/phidata"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 4 个 GitHub 上令人惊艳的项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/phodal/github",
+      "repo": "phodal/github",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/phodal/github"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "奥利给!有了这么豪横的指南,还愁不会逛 GitHub!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/pickle-com/glass",
+      "repo": "pickle-com/glass",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/pickle-com/glass"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/pjialin/py12306",
+      "repo": "pjialin/py12306",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/pjialin/py12306"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12036 抢票助手开源,星标 12.7K !"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/powerline/fonts",
+      "repo": "powerline/fonts",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/powerline/fonts"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/projectdiscovery/katana",
+      "repo": "projectdiscovery/katana",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/projectdiscovery/katana"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 11 月火火火火的 GitHub 项目_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/public-apis/public-apis",
+      "repo": "public-apis/public-apis",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/public-apis/public-apis"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/q2316367743/es-client",
+      "repo": "q2316367743/es-client",
+      "description": "",
+      "context_from_articles": [
+        "> > https://github.com/q2316367743/es-client",
+        "开源地址：https://github.com/q2316367743/es-client"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/qgis/QGIS",
+      "repo": "qgis/QGIS",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/qgis/QGIS"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 6 个 GitHub 开源项目泰酷辣!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/quasar/Quasar",
+      "repo": "quasar/Quasar",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/quasar/Quasar"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/rendercv/rendercv",
+      "repo": "rendercv/rendercv",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/rendercv/rendercv"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 6 个本周 火火火火 的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "repo": "resemble-ai/chatterbox",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/resemble-ai/chatterbox"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 6 个本周 火火火火 的 GitHub 项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ripperhe/Bob",
+      "repo": "ripperhe/Bob",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/ripperhe/Bob"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/rocboss/paopao-ce",
+      "repo": "rocboss/paopao-ce",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/rocboss/paopao-ce"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8 月份 火火火火 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ruanyf/free-books_",
+      "repo": "ruanyf/free-books_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/ruanyf/free-books_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ruanyf/weekly",
+      "repo": "ruanyf/weekly",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/ruanyf/weekly/issues/3157"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/run-llama/notebookllama",
+      "repo": "run-llama/notebookllama",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/run-llama/notebookllama"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Google 神级生产力工具,所有 GitHub 开源平替都找到了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/rustdesk/rustdesk",
+      "repo": "rustdesk/rustdesk",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/rustdesk/rustdesk"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "这 4 个远程桌面开源了!_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+      "repo": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12306 抢票开源脚本登上热榜!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/s-unscrupulous/idea",
+      "repo": "s-unscrupulous/idea",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/s-unscrupulous/idea\\_seat"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "女朋友为我写了一个防猝死插件"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/s0md3v/roop",
+      "repo": "s0md3v/roop",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/s0md3v/roop"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/sammyuri/craftgpt",
+      "repo": "sammyuri/craftgpt",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/sammyuri/craftgpt"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了."
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个 AI 方向 GitHub 开源项目,杀疯了._2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/servo/servo",
+      "repo": "servo/servo",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/servo/servo"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点 10 月份 YYDS 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/showlab/Paper2Video",
+      "repo": "showlab/Paper2Video",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/showlab/Paper2Video"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "4 个超级实用的 GitHub 开源项目,速速收藏."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/sindresorhus/hyper-snazzy",
+      "repo": "sindresorhus/hyper-snazzy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/sindresorhus/hyper-snazzy 开源地址：https://github.com/sindresorhus/iterm2-snazzy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/sindresorhus/iterm2-snazzy",
+      "repo": "sindresorhus/iterm2-snazzy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/sindresorhus/hyper-snazzy 开源地址：https://github.com/sindresorhus/iterm2-snazzy 开源地址：https://github.com/sindresorhus/terminal-snazzy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/sindresorhus/terminal-snazzy",
+      "repo": "sindresorhus/terminal-snazzy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/sindresorhus/iterm2-snazzy 开源地址：https://github.com/sindresorhus/terminal-snazzy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 5 个 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/sinelaw/fresh",
+      "repo": "sinelaw/fresh",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/sinelaw/fresh"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个本周 yyds 的 GitHub 开源项目."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/skywind3000/preserve-cd",
+      "repo": "skywind3000/preserve-cd",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/skywind3000/preserve-cd"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 8 个爷青回 GitHub 开源游戏,太怀念了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/souzatharsis/podcastfy",
+      "repo": "souzatharsis/podcastfy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/souzatharsis/podcastfy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Google 神级生产力工具,所有 GitHub 开源平替都找到了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/sshiqiao/douyin-ios-objectc",
+      "repo": "sshiqiao/douyin-ios-objectc",
+      "description": "",
+      "context_from_articles": [
+        "https://github.com/sshiqiao/douyin-ios-objectc"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/stanfordnlp/dspy",
+      "repo": "stanfordnlp/dspy",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/stanfordnlp/dspy"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/steipete/agent-rules",
+      "repo": "steipete/agent-rules",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/steipete/agent-rules"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "发现了 4 个超神 GitHub 开源项目,绝对给劲儿."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/stitionai/devika",
+      "repo": "stitionai/devika",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/stitionai/devika"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/tangshimin/typing-learner",
+      "repo": "tangshimin/typing-learner",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/tangshimin/typing-learner"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者推荐的 6 个 GitHub 项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/testerSunshine/12306",
+      "repo": "testerSunshine/12306",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/testerSunshine/12306"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "12306 抢票开源脚本登上热榜!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/theaiautomators/insights-lm-public",
+      "repo": "theaiautomators/insights-lm-public",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/theaiautomators/insights-lm-public"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Google 神级生产力工具,所有 GitHub 开源平替都找到了."
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/tldraw/tldraw",
+      "repo": "tldraw/tldraw",
+      "description": "",
+      "context_from_articles": [
+        "开源项目：https://github.com/tldraw/tldraw"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐本周 5 个 火火火 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "repo": "trekhleb/javascript-algorithms",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/trekhleb/javascript-algorithms"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 10 个标星 100 K 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/upscayl/upscayl",
+      "repo": "upscayl/upscayl",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/upscayl/upscayl/wiki/Guide 开源地址：https://github.com/xinntao/Real-ESRGAN"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令人惊艳开源项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/usememos/memos",
+      "repo": "usememos/memos",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/usememos/memos"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火火火的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/vikhyat/moondream",
+      "repo": "vikhyat/moondream",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/vikhyat/moondream"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个火火火的 AI 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/vnotex/vnote",
+      "repo": "vnotex/vnote",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/vnotex/vnote"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 4 个 yyds 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/vooidzero/B23Downloader",
+      "repo": "vooidzero/B23Downloader",
+      "description": "",
+      "context_from_articles": [
+        "GitHub地址：https://github.com/vooidzero/B23Downloader"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/waityousea/xuniren",
+      "repo": "waityousea/xuniren",
+      "description": "",
+      "context_from_articles": [
+        "UE5工程：https://github.com/xszyou/fay-ue5 实时照片驱动集成：https://github.com/waityousea/xuniren"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/wbkd/react-flow",
+      "repo": "wbkd/react-flow",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/wbkd/react-flow"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "这一周 火火火 的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/wenhan-wu/OpenCourseCatalog_",
+      "repo": "wenhan-wu/OpenCourseCatalog_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/wenhan-wu/OpenCourseCatalog_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/whyour/qinglong",
+      "repo": "whyour/qinglong",
+      "description": "",
+      "context_from_articles": [
+        "GitHub地址：https://github.com/whyour/qinglong"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/wwengg/douyin",
+      "repo": "wwengg/douyin",
+      "description": "",
+      "context_from_articles": [
+        "消费级 PC 大模型：https://github.com/THUDM/ChatGLM-6B 全平台抖音抓包：https://github.com/wwengg/douyin UE5工程：https://github.com/xszyou/fay-ue5"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xai-org/grok-1",
+      "repo": "xai-org/grok-1",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/xai-org/grok-1"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_2"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "Open-Sora 开源了!_1"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xiangsx/gpt4free-ts",
+      "repo": "xiangsx/gpt4free-ts",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/xiangsx/gpt4free-ts"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "6 月份有哪些 GitHub 项目火了"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xiaoli1999/custom-avatar",
+      "repo": "xiaoli1999/custom-avatar",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/xiaoli1999/custom-avatar"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "读者自荐的 4 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xiaoxian521/vue-pure-admin",
+      "repo": "xiaoxian521/vue-pure-admin",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/xiaoxian521/vue-pure-admin",
+        "项目地址：https://github.com/xiaoxian521/vue-pure-admin"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6  个 GitHub 开源项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xinntao/Real-ESRGAN",
+      "repo": "xinntao/Real-ESRGAN",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/upscayl/upscayl/wiki/Guide 开源地址：https://github.com/xinntao/Real-ESRGAN"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令人惊艳开源项目!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xszyou/fay-ue5",
+      "repo": "xszyou/fay-ue5",
+      "description": "",
+      "context_from_articles": [
+        "全平台抖音抓包：https://github.com/wwengg/douyin UE5工程：https://github.com/xszyou/fay-ue5 实时照片驱动集成：https://github.com/waityousea/xuniren"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 3 个令你惊艳的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xushengfeng/eSearch",
+      "repo": "xushengfeng/eSearch",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/xushengfeng/eSearch"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 6 个 yyds 的开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/xuxueli/xxl-job",
+      "repo": "xuxueli/xxl-job",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/xuxueli/xxl-job"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/yangjianxin1/Firefly",
+      "repo": "yangjianxin1/Firefly",
+      "description": "",
+      "context_from_articles": [
+        "开源地址：https://github.com/yangjianxin1/Firefly"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "8 月份 火火火火 的 GitHub 开源项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/yifeikong/reverse-interview-zh",
+      "repo": "yifeikong/reverse-interview-zh",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/yifeikong/reverse-interview-zh"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "盘点最近 火火火 的 7 个 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/yukilzw/dy",
+      "repo": "yukilzw/dy",
+      "description": "",
+      "context_from_articles": [
+        "地址：https://github.com/yukilzw/dy\\_flutter"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/zhaoolee/ChromeAppHeroes_",
+      "repo": "zhaoolee/ChromeAppHeroes_",
+      "description": "",
+      "context_from_articles": [
+        "_https://github.com/zhaoolee/ChromeAppHeroes_"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "用Github来备战考试,我大概是疯了!"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/zhongyang219/TrafficMonitor",
+      "repo": "zhongyang219/TrafficMonitor",
+      "description": "",
+      "context_from_articles": [
+        "GitHub地址：https://github.com/zhongyang219/TrafficMonitor"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_1"
+        },
+        {
+          "source": "逛逛GitHub",
+          "article": "推荐 7 个 yyds 的 GitHub 项目_2"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/zwStar/vue-meituan",
+      "repo": "zwStar/vue-meituan",
+      "description": "",
+      "context_from_articles": [
+        "项目地址：https://github.com/zwStar/vue-meituan"
+      ],
+      "mentioned_in": [
+        {
+          "source": "逛逛GitHub",
+          "article": "毕业设计有哪些可借鉴的 GitHub 项目"
+        }
+      ],
+      "stars": 0,
+      "language": "",
+      "topics": []
+    }
+  ]
+}

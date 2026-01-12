@@ -1,0 +1,308 @@
+{
+  "player_analyses": [
+    {
+      "url": "https://jptt.tv/video/SORA-613",
+      "title": "SORA-613 洗腦與催眠－禿鷹基金的女老闆。本著週一,週二,週三,週四,週五,週五的洗腦,羞辱,催眠和羞辱的精神,梅洛迪·希娜·馬克斯 | 禁片天堂",
+      "jwplayer": {
+        "has_jwplayer": false,
+        "configs": [],
+        "video_sources": [],
+        "playlist_urls": []
+      },
+      "fluidplayer": {
+        "has_fluidplayer": true,
+        "configs": [
+          "{\n                vastOptions: {\n                    allowVPAID: true,\n                    adList: [\n                        {\n                            roll: 'preRoll',\n                            // vastTag: 'https://s.magsrv.com/v1/vast.php?idzone=5498794',\n                            vastTag: 'https://s.chnsrv.com/v1/vast.php?idzone=5498794',\n                            adText: 'EXO'\n                        }"
+        ],
+        "video_sources": []
+      },
+      "ajax": {
+        "ajax_requests": [
+          ".ajax({\n                url: '/collect',\n                type: 'POST',\n                data: {\n                    id: id,\n                    type: 'video',\n                    _token: 'XastvrPqEy32etTmufObKYLPHQJykcnlHUSNTqm4'\n                }"
+        ],
+        "api_endpoints": [
+          "https://jptt.tv/video/SORA-596",
+          "https://jptt.tv/video/video",
+          "https://jptt.tv/video/SORA-610",
+          "https://jptt.tv/video/f-player",
+          "https://jptt.tv/video/).style.display=",
+          "https://jptt.tv/video/video-item",
+          "https://jptt.tv/video/--video-height",
+          "https://jptt.tv/video/SORA-603",
+          "http://jptt.tv/video/SOAN-116",
+          "https://jptt.tv/video/col oneVideo",
+          "https://jptt.tv/video/SONE-614",
+          "https://jptt.tv/video/into_video_tag",
+          "https://telegram.me/share/url?url=http://jptt.tv/video/SORA-613&amp;text=SORA-613 洗腦與催眠－禿鷹基金的女老闆。本著週一,週二,週三,週四,週五,週五的洗腦,羞辱,催眠和羞辱的精神,梅洛迪·希娜·馬克斯 - 18JPTT",
+          "https://jptt.tv/video/SORA-613",
+          "https://jptt.tv/video/, getVideoPlayerSize())                $(",
+          "https://jptt.tv/video/oneVideo-top",
+          "http://jptt.tv/video/SORA-593",
+          "https://jptt.tv/video/,            });        });        function hideVideoAd() {            $(",
+          "https://jptt.tv/video/creativeDisplayed-",
+          "https://jptt.tv/video/);        player = fluidPlayer(            ",
+          "https://jptt.tv/video/video-info",
+          "https://twitter.com/intent/tweet?url=http://jptt.tv/video/SORA-613&amp;text=SORA-613 洗腦與催眠－禿鷹基金的女老闆。本著週一,週二,週三,週四,週五,週五的洗腦,羞辱,催眠和羞辱的精神,梅洛迪·希娜·馬克斯 - 18JPTT",
+          "http://jptt.tv/video/SONE-614",
+          "https://jptt.tv/video/SORA-604",
+          "https://jptt.tv/video/,                video_barcode: ",
+          "http://jptt.tv/video/SORA-603",
+          "http://jptt.tv/video/SORA-608",
+          "https://jptt.tv/cn/video/SORA-613",
+          "https://jptt.tv/video/into_video",
+          "https://jptt.tv/video/video_player",
+          "https://jptt.tv/video/SORA-606",
+          "http://jptt.tv/video/STEN-001",
+          "https://line.me/R/msg/text/?text=http://jptt.tv/video/SORA-613",
+          "https://jptt.tv/video/==typeof window.__tcfapi){var o=this;window.__tcfapi(",
+          "https://jptt.tv/video/VideoObject",
+          "https://jptt.tv/video/oneVideo-body",
+          "https://jptt.tv/video/SORA-593",
+          "https://jptt.tv/video/;        var player;        _h = getVideoPlayerSize();        $(",
+          "https://jptt.tv/video/.video-info .limited_2",
+          "https://jptt.tv/video/,                video_id: ",
+          "https://jptt.tv/video/SOAN-116",
+          "https://jptt.tv/video/oneVideo-fotter",
+          "https://jptt.tv/video/,                    }                                    }            }        );        player.on(",
+          "https://jptt.tv/video/>    <style>        body {            background-color: #19181f;        }        img.card-img-top {            aspect-ratio: 3/2;            object-fit: cover;        }        #negative {            width: 100%;        }        #negative #dprecommend .qcair-item-title {            color: rgba(255, 255, 255, 0.55);        }        .page-btn[disabled] {            border: 1px solid #19181f;        }        .page-btn[disabled] b {            color: white;        }    </style>        <style>        .jw-icon-next,        .jw-playlist-dock-btn {            display: none !important;        }        .jw-preview.jw-reset {            background-size: contain !important;            background-repeat: no-repeat !important;        }        .v_ad.hide {            display: none !important;        }        .v_ad {            position: absolute;            bottom: 30px;            background-color: rgba(0, 0, 0, .5);            width: 100%;            height: 250px;            max-height: 30%;            text-align: center;            padding: 0;        }        .video {            height: var(--video-height, 345px);        }        .v_ad > * {            height: 100%;        }        .v_ad .close {            position: absolute;            right: 10px;            top: 10px;            width: 24px;            background-color: white;            height: 25px;            color: red;            border-radius: 50px;            z-index: 1019;        }        .v_ad img {            max-width: 100%;            max-height: 100%;        }        .video-but .btn {            color: black;        }        /*.aa , .a , .a li {*/        /*    display: inline-block;*/        /*    margin: 0;*/        /*    padding: 0;*/        /*}*/        /*.a {*/        /*    display: flex;*/        /*    list-style: none;*/        /*    padding: 0;*/        /*    margin: 0;*/        /*    gap: 10px; !* 控制標籤間距 *!*/        /*}*/        /*.a li {*/        /*    display: inline;*/        /*}*/    </style>    <script src=",
+          "https://jptt.tv/video/SORA-607",
+          "https://jptt.tv/video/SORA-608",
+          "https://jptt.tv/video/>    <style>    .nav-top ul .dropdown-menu {        display: none;        padding: .5rem 0;        z-index: 99999;        background-color: #19181f;        box-shadow: rgb(255 255 255 / 50%) 0 0 20px 0;    }    .nav-top ul .dropdown-menu a:hover {        background-color: #19181f;    }    .nav-top ul .dropdown-menu.show {        display: block;        padding: .5rem 0;    }</style><nav class=",
+          "http://jptt.tv/video/SORA-610",
+          "https://jptt.tv/video/video-but d-flex justify-content-center my-3",
+          "https://jptt.tv/video/>        / jwplayer.key = ",
+          "https://jptt.tv/video/video_start",
+          "https://jptt.tv/video/, function () {            let h = getVideoPlayerSize();            if (h !== _h) {                player.resize(",
+          "http://jptt.tv/video/SORA-606",
+          "https://jptt.tv/video/);        }        let _h = 345        function getVideoPlayerSize() {            let body = document.body;            let w = body.offsetWidth;            if (w > 1200) {                return 645;            }            if (w > 970) {                return 465            }            if (w > 540) {                return 345            }            return 210;        }        window.addEventListener(",
+          "https://jptt.tv/video/into_video_recommend",
+          "https://jptt.tv/video/STEN-001",
+          "https://jptt.tv/>                    </video>                </div>                <div class=",
+          "https://jptt.tv/video/!==t.eventStatus||(window.__tcfapi(",
+          "http://jptt.tv/video/SORA-604",
+          "http://jptt.tv/video/SORA-596",
+          "https://jptt.tv/video/><style>    #floatingAd {        padding: 0;        position: fixed;        bottom: 20px;        right: 20px;        width: 300px;        height: 100px;        background-color: #fff;        border: 1px solid #ccc;        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);        z-index: 9999;        overflow: hidden;        display: flex;        align-items: center;        justify-content: center;    }    #floatingAd .close-btn {        position: absolute;        top: 0;        left: 0;        background-color: rgba(0, 0, 0, 0.5);        color: white;        font-size: 14px;        padding: 5px 8px;        cursor: pointer;        z-index: 10000;    }    @media (max-width: 768px) {        #floatingAd {            bottom: 0;            right: 0;            width: 100%;            height: 100px;            border-radius: 0;        }    }    @media (max-width: 720px) {        #ad_fix_150_150 {            display: block !important;        }    }    #ad_fix_150_150 {        display: none;        width: 50px;        height: 50px;        position: fixed;        right: 0;        bottom: 100px;        z-index: 999;    }    #ad_fix_150_150 * {        max-width: 50px !important;        max-height: 50px !important;    }</style><script src=",
+          "http://jptt.tv/video/SORA-607"
+        ],
+        "video_apis": []
+      },
+      "all_video_sources": []
+    },
+    {
+      "url": "https://jptt.tv/video/XVSR-838",
+      "title": "XVSR-838 被大胸肉食女OO誘惑兩天,一遍遍地進行生猛內射 - 椿木梨香 | 禁片天堂",
+      "jwplayer": {
+        "has_jwplayer": false,
+        "configs": [],
+        "video_sources": [],
+        "playlist_urls": []
+      },
+      "fluidplayer": {
+        "has_fluidplayer": true,
+        "configs": [
+          "{\n                vastOptions: {\n                    allowVPAID: true,\n                    adList: [\n                        {\n                            roll: 'preRoll',\n                            // vastTag: 'https://s.magsrv.com/v1/vast.php?idzone=5498794',\n                            vastTag: 'https://s.chnsrv.com/v1/vast.php?idzone=5498794',\n                            adText: 'EXO'\n                        }"
+        ],
+        "video_sources": []
+      },
+      "ajax": {
+        "ajax_requests": [
+          ".ajax({\n                url: '/collect',\n                type: 'POST',\n                data: {\n                    id: id,\n                    type: 'video',\n                    _token: 'a26B3hH5qHdg318Fbq1JVNNVushznZFnaVBoYgw3'\n                }"
+        ],
+        "api_endpoints": [
+          "https://jptt.tv/video/video",
+          "https://jptt.tv/video/f-player",
+          "https://jptt.tv/cn/video/XVSR-838",
+          "https://jptt.tv/video/video-item",
+          "https://jptt.tv/video/--video-height",
+          "http://jptt.tv/video/XVSR-797-chinese",
+          "https://jptt.tv/video/col oneVideo",
+          "https://jptt.tv/video/XVSR-807",
+          "https://jptt.tv/video/into_video_tag",
+          "http://jptt.tv/video/XVSR-807",
+          "https://jptt.tv/video/, getVideoPlayerSize())                $(",
+          "https://jptt.tv/video/oneVideo-top",
+          "https://jptt.tv/video/creativeDisplayed-",
+          "https://jptt.tv/video/,            });        });        function hideVideoAd() {            $(",
+          "https://jptt.tv/video/);        player = fluidPlayer(            ",
+          "https://jptt.tv/video/video-info",
+          "https://twitter.com/intent/tweet?url=http://jptt.tv/video/XVSR-838&amp;text=XVSR-838 被大胸肉食女OO誘惑兩天,一遍遍地進行生猛內射 - 椿木梨香 - 18JPTT",
+          "https://jptt.tv/video/,                video_barcode: ",
+          "https://jptt.tv/video/XV-667",
+          "https://line.me/R/msg/text/?text=http://jptt.tv/video/XVSR-838",
+          "https://jptt.tv/video/into_video",
+          "https://jptt.tv/video/video_player",
+          "https://jptt.tv/video/XVSR-786",
+          "https://jptt.tv/video/XVSR-815",
+          "https://jptt.tv/video/oneVideo-body",
+          "https://jptt.tv/video/==typeof window.__tcfapi){var o=this;window.__tcfapi(",
+          "https://jptt.tv/video/VideoObject",
+          "https://jptt.tv/video/XVSR-797-chinese",
+          "https://jptt.tv/video/;        var player;        _h = getVideoPlayerSize();        $(",
+          "https://jptt.tv/video/.video-info .limited_2",
+          "https://jptt.tv/video/,                video_id: ",
+          "https://jptt.tv/video/SBMX-054",
+          "https://jptt.tv/video/oneVideo-fotter",
+          "http://jptt.tv/video/XVSR-818",
+          "https://jptt.tv/video/XVSR-818",
+          "https://jptt.tv/video/>    <style>        body {            background-color: #19181f;        }        img.card-img-top {            aspect-ratio: 3/2;            object-fit: cover;        }        #negative {            width: 100%;        }        #negative #dprecommend .qcair-item-title {            color: rgba(255, 255, 255, 0.55);        }        .page-btn[disabled] {            border: 1px solid #19181f;        }        .page-btn[disabled] b {            color: white;        }    </style>        <style>        .jw-icon-next,        .jw-playlist-dock-btn {            display: none !important;        }        .jw-preview.jw-reset {            background-size: contain !important;            background-repeat: no-repeat !important;        }        .v_ad.hide {            display: none !important;        }        .v_ad {            position: absolute;            bottom: 30px;            background-color: rgba(0, 0, 0, .5);            width: 100%;            height: 250px;            max-height: 30%;            text-align: center;            padding: 0;        }        .video {            height: var(--video-height, 345px);        }        .v_ad > * {            height: 100%;        }        .v_ad .close {            position: absolute;            right: 10px;            top: 10px;            width: 24px;            background-color: white;            height: 25px;            color: red;            border-radius: 50px;            z-index: 1019;        }        .v_ad img {            max-width: 100%;            max-height: 100%;        }        .video-but .btn {            color: black;        }        /*.aa , .a , .a li {*/        /*    display: inline-block;*/        /*    margin: 0;*/        /*    padding: 0;*/        /*}*/        /*.a {*/        /*    display: flex;*/        /*    list-style: none;*/        /*    padding: 0;*/        /*    margin: 0;*/        /*    gap: 10px; !* 控制標籤間距 *!*/        /*}*/        /*.a li {*/        /*    display: inline;*/        /*}*/    </style>    <script src=",
+          "https://jptt.tv/video/XVSR-838",
+          "https://jptt.tv/video/XVSR-691",
+          "https://jptt.tv/video/,                    }                                    }            }        );        player.on(",
+          "https://jptt.tv/video/XVSR-755",
+          "https://jptt.tv/video/>    <style>    .nav-top ul .dropdown-menu {        display: none;        padding: .5rem 0;        z-index: 99999;        background-color: #19181f;        box-shadow: rgb(255 255 255 / 50%) 0 0 20px 0;    }    .nav-top ul .dropdown-menu a:hover {        background-color: #19181f;    }    .nav-top ul .dropdown-menu.show {        display: block;        padding: .5rem 0;    }</style><nav class=",
+          "http://jptt.tv/video/XVSR-815",
+          "https://jptt.tv/video/video-but d-flex justify-content-center my-3",
+          "https://jptt.tv/video/>        / jwplayer.key = ",
+          "https://jptt.tv/video/video_start",
+          "https://telegram.me/share/url?url=http://jptt.tv/video/XVSR-838&amp;text=XVSR-838 被大胸肉食女OO誘惑兩天,一遍遍地進行生猛內射 - 椿木梨香 - 18JPTT",
+          "https://jptt.tv/video/XVSR-709",
+          "https://jptt.tv/video/, function () {            let h = getVideoPlayerSize();            if (h !== _h) {                player.resize(",
+          "https://jptt.tv/video/);        }        let _h = 345        function getVideoPlayerSize() {            let body = document.body;            let w = body.offsetWidth;            if (w > 1200) {                return 645;            }            if (w > 970) {                return 465            }            if (w > 540) {                return 345            }            return 210;        }        window.addEventListener(",
+          "https://jptt.tv/video/into_video_recommend",
+          "https://jptt.tv/>                    </video>                </div>                <div class=",
+          "https://jptt.tv/video/MRMM-001",
+          "https://jptt.tv/video/!==t.eventStatus||(window.__tcfapi(",
+          "https://jptt.tv/video/).style.display=",
+          "https://jptt.tv/video/><style>    #floatingAd {        padding: 0;        position: fixed;        bottom: 20px;        right: 20px;        width: 300px;        height: 100px;        background-color: #fff;        border: 1px solid #ccc;        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);        z-index: 9999;        overflow: hidden;        display: flex;        align-items: center;        justify-content: center;    }    #floatingAd .close-btn {        position: absolute;        top: 0;        left: 0;        background-color: rgba(0, 0, 0, 0.5);        color: white;        font-size: 14px;        padding: 5px 8px;        cursor: pointer;        z-index: 10000;    }    @media (max-width: 768px) {        #floatingAd {            bottom: 0;            right: 0;            width: 100%;            height: 100px;            border-radius: 0;        }    }    @media (max-width: 720px) {        #ad_fix_150_150 {            display: block !important;        }    }    #ad_fix_150_150 {        display: none;        width: 50px;        height: 50px;        position: fixed;        right: 0;        bottom: 100px;        z-index: 999;    }    #ad_fix_150_150 * {        max-width: 50px !important;        max-height: 50px !important;    }</style><script src="
+        ],
+        "video_apis": []
+      },
+      "all_video_sources": []
+    },
+    {
+      "url": "https://jptt.tv/video/JHEM-037",
+      "title": "JHEM-037 極度震撼的畫面！絕望的尖叫！講述已婚女性OO案的真實紀實劇。熟女們被卑鄙的性OO者在下午襲擊住宅,痛哭流涕,痛苦不堪……5名女性,120分鐘 | 禁片天堂",
+      "jwplayer": {
+        "has_jwplayer": false,
+        "configs": [],
+        "video_sources": [],
+        "playlist_urls": []
+      },
+      "fluidplayer": {
+        "has_fluidplayer": true,
+        "configs": [
+          "{\n                vastOptions: {\n                    allowVPAID: true,\n                    adList: [\n                        {\n                            roll: 'preRoll',\n                            // vastTag: 'https://s.magsrv.com/v1/vast.php?idzone=5498794',\n                            vastTag: 'https://s.chnsrv.com/v1/vast.php?idzone=5498794',\n                            adText: 'EXO'\n                        }"
+        ],
+        "video_sources": []
+      },
+      "ajax": {
+        "ajax_requests": [
+          ".ajax({\n                url: '/collect',\n                type: 'POST',\n                data: {\n                    id: id,\n                    type: 'video',\n                    _token: 'gVMkKrSDBth8wXbOqvFvSZAgzp7YtGeYykQ0JrzF'\n                }"
+        ],
+        "api_endpoints": [
+          "https://jptt.tv/video/video",
+          "https://jptt.tv/video/f-player",
+          "https://jptt.tv/video/video-item",
+          "https://jptt.tv/video/--video-height",
+          "http://jptt.tv/video/JHEM-028",
+          "http://jptt.tv/video/JHEM-027",
+          "https://jptt.tv/video/col oneVideo",
+          "https://jptt.tv/video/into_video_tag",
+          "http://jptt.tv/video/JHEM-033",
+          "https://jptt.tv/video/, getVideoPlayerSize())                $(",
+          "https://jptt.tv/video/oneVideo-top",
+          "https://jptt.tv/video/creativeDisplayed-",
+          "https://jptt.tv/video/,            });        });        function hideVideoAd() {            $(",
+          "https://jptt.tv/video/);        player = fluidPlayer(            ",
+          "https://jptt.tv/video/video-info",
+          "https://line.me/R/msg/text/?text=http://jptt.tv/video/JHEM-037",
+          "https://twitter.com/intent/tweet?url=http://jptt.tv/video/JHEM-037&amp;text=JHEM-037 極度震撼的畫面！絕望的尖叫！講述已婚女性OO案的真實紀實劇。熟女們被卑鄙的性OO者在下午襲擊住宅,痛哭流涕,痛苦不堪……5名女性,120分鐘 - 18JPTT",
+          "https://jptt.tv/video/JHEM-033",
+          "https://jptt.tv/video/,                video_barcode: ",
+          "http://jptt.tv/video/JHEM-016",
+          "https://telegram.me/share/url?url=http://jptt.tv/video/JHEM-037&amp;text=JHEM-037 極度震撼的畫面！絕望的尖叫！講述已婚女性OO案的真實紀實劇。熟女們被卑鄙的性OO者在下午襲擊住宅,痛哭流涕,痛苦不堪……5名女性,120分鐘 - 18JPTT",
+          "https://jptt.tv/video/JHEM-010",
+          "https://jptt.tv/video/JHEM-037",
+          "https://jptt.tv/video/JHEM-014",
+          "https://jptt.tv/video/JHEM-028",
+          "https://jptt.tv/video/into_video",
+          "https://jptt.tv/video/video_player",
+          "https://jptt.tv/video/oneVideo-body",
+          "https://jptt.tv/video/==typeof window.__tcfapi){var o=this;window.__tcfapi(",
+          "https://jptt.tv/video/VideoObject",
+          "https://jptt.tv/video/;        var player;        _h = getVideoPlayerSize();        $(",
+          "http://jptt.tv/video/JHEM-025",
+          "https://jptt.tv/video/.video-info .limited_2",
+          "https://jptt.tv/video/JHEM-016",
+          "https://jptt.tv/video/,                video_id: ",
+          "https://jptt.tv/video/JHEM-007",
+          "https://jptt.tv/video/JHEM-025",
+          "https://jptt.tv/video/oneVideo-fotter",
+          "http://jptt.tv/video/JHEM-036",
+          "https://jptt.tv/video/,                    }                                    }            }        );        player.on(",
+          "https://jptt.tv/video/>    <style>        body {            background-color: #19181f;        }        img.card-img-top {            aspect-ratio: 3/2;            object-fit: cover;        }        #negative {            width: 100%;        }        #negative #dprecommend .qcair-item-title {            color: rgba(255, 255, 255, 0.55);        }        .page-btn[disabled] {            border: 1px solid #19181f;        }        .page-btn[disabled] b {            color: white;        }    </style>        <style>        .jw-icon-next,        .jw-playlist-dock-btn {            display: none !important;        }        .jw-preview.jw-reset {            background-size: contain !important;            background-repeat: no-repeat !important;        }        .v_ad.hide {            display: none !important;        }        .v_ad {            position: absolute;            bottom: 30px;            background-color: rgba(0, 0, 0, .5);            width: 100%;            height: 250px;            max-height: 30%;            text-align: center;            padding: 0;        }        .video {            height: var(--video-height, 345px);        }        .v_ad > * {            height: 100%;        }        .v_ad .close {            position: absolute;            right: 10px;            top: 10px;            width: 24px;            background-color: white;            height: 25px;            color: red;            border-radius: 50px;            z-index: 1019;        }        .v_ad img {            max-width: 100%;            max-height: 100%;        }        .video-but .btn {            color: black;        }        /*.aa , .a , .a li {*/        /*    display: inline-block;*/        /*    margin: 0;*/        /*    padding: 0;*/        /*}*/        /*.a {*/        /*    display: flex;*/        /*    list-style: none;*/        /*    padding: 0;*/        /*    margin: 0;*/        /*    gap: 10px; !* 控制標籤間距 *!*/        /*}*/        /*.a li {*/        /*    display: inline;*/        /*}*/    </style>    <script src=",
+          "https://jptt.tv/cn/video/JHEM-037",
+          "https://jptt.tv/video/>    <style>    .nav-top ul .dropdown-menu {        display: none;        padding: .5rem 0;        z-index: 99999;        background-color: #19181f;        box-shadow: rgb(255 255 255 / 50%) 0 0 20px 0;    }    .nav-top ul .dropdown-menu a:hover {        background-color: #19181f;    }    .nav-top ul .dropdown-menu.show {        display: block;        padding: .5rem 0;    }</style><nav class=",
+          "https://jptt.tv/video/JHEM-027",
+          "https://jptt.tv/video/video-but d-flex justify-content-center my-3",
+          "https://jptt.tv/video/>        / jwplayer.key = ",
+          "https://jptt.tv/video/video_start",
+          "https://jptt.tv/video/, function () {            let h = getVideoPlayerSize();            if (h !== _h) {                player.resize(",
+          "https://jptt.tv/video/><style>    #floatingAd {        padding: 0;        position: fixed;        bottom: 20px;        right: 20px;        width: 300px;        height: 100px;        background-color: #fff;        border: 1px solid #ccc;        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);        z-index: 9999;        overflow: hidden;        display: flex;        align-items: center;        justify-content: center;    }    #floatingAd .close-btn {        position: absolute;        top: 0;        left: 0;        background-color: rgba(0, 0, 0, 0.5);        color: white;        font-size: 14px;        padding: 5px 8px;        cursor: pointer;        z-index: 10000;    }    @media (max-width: 768px) {        #floatingAd {            bottom: 0;            right: 0;            width: 100%;            height: 100px;            border-radius: 0;        }    }    @media (max-width: 720px) {        #ad_fix_150_150 {            display: block !important;        }    }    #ad_fix_150_150 {        display: none;        width: 50px;        height: 50px;        position: fixed;        right: 0;        bottom: 100px;        z-index: 999;    }    #ad_fix_150_150 * {        max-width: 50px !important;        max-height: 50px !important;    }</style><script src=",
+          "https://jptt.tv/video/JHEM-036",
+          "https://jptt.tv/video/JHEM-023",
+          "http://jptt.tv/video/JHEM-007",
+          "https://jptt.tv/video/);        }        let _h = 345        function getVideoPlayerSize() {            let body = document.body;            let w = body.offsetWidth;            if (w > 1200) {                return 645;            }            if (w > 970) {                return 465            }            if (w > 540) {                return 345            }            return 210;        }        window.addEventListener(",
+          "https://jptt.tv/video/into_video_recommend",
+          "http://jptt.tv/video/JHEM-023",
+          "https://jptt.tv/>                    </video>                </div>                <div class=",
+          "https://jptt.tv/video/!==t.eventStatus||(window.__tcfapi(",
+          "https://jptt.tv/video/).style.display=",
+          "https://jptt.tv/video/JHEM-019"
+        ],
+        "video_apis": []
+      },
+      "all_video_sources": []
+    }
+  ],
+  "api_test_results": [
+    {
+      "url": "https://jptt.tv/video/SORA-596",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 105293,
+      "is_json": false,
+      "content_preview": "<!doctype html>\n<html lang=zh>\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    "
+    },
+    {
+      "url": "https://jptt.tv/video/--video-height",
+      "status_code": 404,
+      "content_type": "text/html",
+      "content_length": 1467,
+      "is_json": false,
+      "content_preview": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n<script>(function(){function c(){var b=a.contentDocument||a.contentWindo"
+    },
+    {
+      "url": "https://jptt.tv/video/SORA-603",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 105451,
+      "is_json": false,
+      "content_preview": "<!doctype html>\n<html lang=zh>\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    "
+    },
+    {
+      "url": "http://jptt.tv/video/JHEM-033",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 103827,
+      "is_json": false,
+      "content_preview": "<!doctype html>\n<html lang=zh>\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    "
+    },
+    {
+      "url": "https://twitter.com/intent/tweet?url=http://jptt.tv/video/SORA-613&amp;text=SORA-613 洗腦與催眠－禿鷹基金的女老闆。本著週一,週二,週三,週四,週五,週五的洗腦,羞辱,催眠和羞辱的精神,梅洛迪·希娜·馬克斯 - 18JPTT",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 223212,
+      "is_json": false,
+      "content_preview": "<!DOCTYPE html><html dir=\"ltr\" lang=\"zh\"><head><meta charset=\"utf-8\" /><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover\" /><link rel"
+    }
+  ],
+  "summary": {
+    "total_analyzed": 3,
+    "successful_analyses": 3,
+    "total_video_sources": 0,
+    "total_api_endpoints": 106,
+    "jwplayer_pages": 0,
+    "fluidplayer_pages": 3
+  }
+}

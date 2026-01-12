@@ -1,0 +1,280 @@
+{
+  "base_url": "https://www.a3m5m.com/s/video/shipin/1044455",
+  "video_id": "1044455",
+  "tested_endpoints": [
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/data",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5017237663269043
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/info",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5135433673858643
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/details",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5426418781280518
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/video/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5233862400054932
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/data/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5178933143615723
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/info/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5037209987640381
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/details/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.580435037612915
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/play/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5136880874633789
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/stream/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.6166830062866211
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/media/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.51521897315979
+    }
+  ],
+  "successful_endpoints": [
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/data",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5017237663269043
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/info",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5135433673858643
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/details",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5426418781280518
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/video/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5233862400054932
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/data/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5178933143615723
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/info/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5037209987640381
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/details/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.580435037612915
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/play/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5136880874633789
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/stream/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.6166830062866211
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/media/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.51521897315979
+    }
+  ],
+  "video_info_found": [
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/data",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5017237663269043
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/info",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5135433673858643
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/details",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5426418781280518
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/video/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5233862400054932
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/data/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5178933143615723
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/info/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5037209987640381
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/details/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.580435037612915
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/play/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.5136880874633789
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/stream/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.6166830062866211
+    },
+    {
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/api/media/1044455",
+      "type": "video_data",
+      "success": true,
+      "status_code": 200,
+      "response": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"https://mjs.szaction.cc/build1/favicon.ico\"/><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Cache-Control\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><title></title><script defer=\"defer\" src=\"https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js\"></script><link href=\"https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css\" rel=\"stylesheet\"></head><script type=\"text/javascript\">function noCopy(){-1===window.location.href.indexOf(\"mmt=JDB2QGtySDdWMg==\")&&(alert(\"ç¦æ­¢ä½¿ç¨Ctrl+Cè¿è¡å¤å¶æä½!\"),event.returnValue=!1)}</script><body onresize=\"stopDebugger()\" oncopy=\"noCopy()\" leftmargin=\"0\" topmargin=\"0\" Î¿ncÎ¿ntextmenu=\"return false\" Î¿ndragstart=\"return false\" onselectstart=\"return!1\" Î¿nselect=\"document.selection.empty()\" Î¿ncÎ¿py=\"document.selection",
+      "error": null,
+      "response_time": 0.51521897315979
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  # 1. MySQL Persistence (Agent State & Data)
+  mysql:
+    image: mysql:8.0
+    container_name: proagent_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: proagent
+      MYSQL_USER: agent_user
+      MYSQL_PASSWORD: agent_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password
+
+  # 2. Redis Cache & Message Broker
+  redis:
+    image: redis:7.0
+    container_name: proagent_redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+
+volumes:
+  mysql_data:
+  redis_data:

@@ -1,0 +1,13 @@
+# 核心依赖
+firecrawl-py>=4.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+loguru>=0.7.0
+lxml>=4.9.0
+
+# 可选依赖 - Selenium 方案
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# 可选依赖 - RSSHub 方案
+feedparser>=6.0.0

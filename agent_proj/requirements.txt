@@ -1,0 +1,32 @@
+# Core Framework
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+
+# Data & Models
+pydantic>=2.0.0
+
+# Tools & APIs
+tavily-python>=0.3.0
+beautifulsoup4>=4.12.0
+yfinance>=0.2.40
+requests>=2.31.0
+
+# Server & API
+fastapi>=0.111.0
+uvicorn>=0.30.0
+sse-starlette>=2.1.0
+python-dotenv>=1.0.0
+
+# Database & Persistence
+sqlalchemy>=2.0.0
+aiomysql>=0.2.0
+aiosqlite>=0.19.0  # For SQLite async operations
+redis>=5.0.0
+cryptography>=42.0.0
+langgraph-checkpoint-mysql>=2.0.0  # Supports MySQL 8.0+
+langgraph-checkpoint-sqlite>=2.0.0  # Local file persistence
+
+# Observability (Optional)
+langfuse>=2.0.0

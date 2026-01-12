@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProAgent Industry Research Playground</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        .terminal {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #1a1a1a;
+            color: #00ff00;
+        }
+        .blinking-cursor::after {
+            content: '|';
+            animation: blink 1s step-end infinite;
+        }
+        @keyframes blink { 50% { opacity: 0; } }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen p-8">
+    <div class="max-w-4xl mx-auto space-y-6">
+        <!-- Header -->
+        <header class="flex items-center justify-between">
+            <div>
+                <h1 class="text-3xl font-bold text-gray-800">ProAgent Playground</h1>
+                <p class="text-gray-500">Industry Research Agent with ReAct + CoT + Streaming</p>
+            </div>
+            <div class="flex gap-2">
+                <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Status: <span id="status">Idle</span></span>
+            </div>
+        </header>
+
+        <!-- Input Area -->
+        <div class="bg-white rounded-xl shadow-sm p-6 space-y-4">
+            <div class="grid grid-cols-4 gap-4">
+                <div class="col-span-1">
+                    <label class="block text-sm font-medium text-gray-700 mb-1">User ID</label>
+                    <input type="text" id="userId" value="user_001" class="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="col-span-3">
+                    <label class="block text-sm font-medium text-gray-700 mb-1">Research Topic</label>
+                    <input type="text" id="topic" value="Analysis of Space Industry 2024" class="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-blue-500">
+                </div>
+            </div>
+            <button onclick="startResearch()" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors flex items-center justify-center gap-2">
+                <i data-lucide="play" class="w-4 h-4"></i> Start Research Agent
+            </button>
+        </div>
+
+        <!-- Dashboard Grid -->
+        <div class="grid grid-cols-3 gap-6">
+            <!-- Left: Plan & Tasks -->
+            <div class="col-span-1 space-y-6">
+                <div class="bg-white rounded-xl shadow-sm p-4 h-[600px] overflow-y-auto">
+                    <h3 class="font-semibold text-gray-800 mb-4 flex items-center gap-2">
+                        <i data-lucide="list-todo" class="w-4 h-4"></i> Execution Plan
+                    </h3>
+                    <div id="planList" class="space-y-3">
+                        <p class="text-sm text-gray-400 italic">Waiting for plan generation...</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right: Terminal Output -->
+            <div class="col-span-2">
+                <div class="bg-gray-900 rounded-xl shadow-lg h-[600px] flex flex-col overflow-hidden">
+                    <div class="bg-gray-800 px-4 py-2 flex items-center gap-2 border-b border-gray-700">
+                        <div class="flex gap-1">
+                            <div class="w-3 h-3 rounded-full bg-red-500"></div>
+                            <div class="w-3 h-3 rounded-full bg-yellow-500"></div>
+                            <div class="w-3 h-3 rounded-full bg-green-500"></div>
+                        </div>
+                        <span class="text-xs text-gray-400 font-mono ml-2">agent.log</span>
+                    </div>
+                    <div id="terminal" class="flex-1 p-4 font-mono text-sm overflow-y-auto text-green-400">
+                        <!-- Logs here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        lucide.createIcons();
+
+        function log(msg, type='info') {
+            const term = document.getElementById('terminal');
+            const line = document.createElement('div');
+            line.className = 'mb-1 break-words';
+            
+            const time = new Date().toLocaleTimeString();
+            let color = 'text-green-400';
+            if (type === 'error') color = 'text-red-400';
+            if (type === 'tool') color = 'text-blue-400';
+            if (type === 'thought') color = 'text-gray-300';
+
+            line.innerHTML = `<span class="text-gray-600">[${time}]</span> <span class="${color}">${msg}</span>`;
+            term.appendChild(line);
+            term.scrollTop = term.scrollHeight;
+        }
+
+        async function startResearch() {
+            const uid = document.getElementById('userId').value;
+            const topic = document.getElementById('topic').value;
+            
+            document.getElementById('status').innerText = 'Running';
+            document.getElementById('planList').innerHTML = '';
+            document.getElementById('terminal').innerHTML = '';
+            
+            try {
+                // 1. Start Job
+                log('🚀 Initializing Agent Job...', 'info');
+                const res = await fetch('http://localhost:8000/api/v1/run', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({user_id: uid, topic: topic})
+                });
+                const data = await res.json();
+                const sessionId = data.session_id;
+                log(`✅ Session Created: ${sessionId}`, 'info');
+
+                // 2. Connect SSE
+                log('📡 Connecting to Event Stream...', 'info');
+                const evtSource = new EventSource(`http://localhost:8000/api/v1/stream/${sessionId}`);
+                
+                evtSource.onmessage = (e) => {
+                    const payload = JSON.parse(e.data);
+                    const eventType = payload.event;
+                    const eventData = JSON.parse(payload.data);
+
+                    if (eventType === 'thought') {
+                        // Stream text (simplified, real streaming would append span)
+                        log(eventData, 'thought');
+                    } else if (eventType === 'tool_start') {
+                        log(`🛠 Tool Call: ${eventData.name}`, 'tool');
+                    } else if (eventType === 'planning') {
+                        renderPlan(eventData);
+                        log('📋 New Plan Generated', 'info');
+                    } else if (eventType === 'done') {
+                        log('✨ Research Completed!', 'info');
+                        document.getElementById('status').innerText = 'Completed';
+                        evtSource.close();
+                    } else if (eventType === 'error') {
+                        log(`❌ Error: ${eventData}`, 'error');
+                    }
+                };
+
+                evtSource.onerror = (e) => {
+                    log('⚠️ Stream Connection Lost', 'error');
+                    evtSource.close();
+                };
+
+            } catch (e) {
+                log(`❌ Failed to start: ${e.message}`, 'error');
+            }
+        }
+
+        function renderPlan(planSteps) {
+            const container = document.getElementById('planList');
+            container.innerHTML = planSteps.map((step, i) => `
+                <div class="p-3 bg-gray-50 border rounded-lg border-l-4 ${step.status === 'completed' ? 'border-green-500' : 'border-blue-500'}">
+                    <div class="flex justify-between items-start mb-1">
+                        <span class="font-medium text-sm">Step ${i+1}</span>
+                        <span class="text-xs px-2 py-0.5 rounded bg-gray-200">${step.status}</span>
+                    </div>
+                    <p class="text-sm text-gray-600">${step.description}</p>
+                </div>
+            `).join('');
+        }
+    </script>
+</body>
+</html>

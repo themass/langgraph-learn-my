@@ -1,0 +1,46 @@
+{
+  "mcpServers": {
+    "paddleocr-ocr": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "paddleocr-mcp",
+        "paddleocr_mcp"
+      ],
+      "env": {
+        "PADDLEOCR_MCP_PIPELINE": "OCR",
+        "PADDLEOCR_MCP_PPOCR_SOURCE": "aistudio",
+        "PADDLEOCR_MCP_SERVER_URL": "https://xxxxxx.aistudio-app.com",
+        "PADDLEOCR_MCP_AISTUDIO_ACCESS_TOKEN": "your-access-token"
+      }
+    },
+    "paddleocr-structure": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "paddleocr-mcp",
+        "paddleocr_mcp"
+      ],
+      "env": {
+        "PADDLEOCR_MCP_PIPELINE": "PP-StructureV3",
+        "PADDLEOCR_MCP_PPOCR_SOURCE": "aistudio",
+        "PADDLEOCR_MCP_SERVER_URL": "https://xxxxxx.aistudio-app.com",
+        "PADDLEOCR_MCP_AISTUDIO_ACCESS_TOKEN": "your-access-token"
+      }
+    },
+    "paddleocr-vl": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "paddleocr-mcp",
+        "paddleocr_mcp"
+      ],
+      "env": {
+        "PADDLEOCR_MCP_PIPELINE": "PaddleOCR-VL",
+        "PADDLEOCR_MCP_PPOCR_SOURCE": "aistudio",
+        "PADDLEOCR_MCP_SERVER_URL": "https://xxxxxx.aistudio-app.com",
+        "PADDLEOCR_MCP_AISTUDIO_ACCESS_TOKEN": "your-access-token"
+      }
+    }
+  }
+}

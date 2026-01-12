@@ -1,0 +1,199 @@
+{
+  "extraction_time": "2025-09-30 00:48:36",
+  "target_url": "https://www.a3m5m.com/s/video/shipin/1044455",
+  "video_id": "1044455",
+  "page_analysis": {
+    "page_type": "React SPA (Single Page Application)",
+    "video_player": "DPlayer",
+    "streaming_technology": "HLS.js",
+    "framework": "React",
+    "cdn_domains": [
+      "mjs.szaction.cc",
+      "mjson.szaction.cc",
+      "cdn.a3m5m.com",
+      "static.a3m5m.com",
+      "assets.a3m5m.com"
+    ],
+    "main_js_file": "https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js",
+    "main_css_file": "https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css",
+    "anti_scraping_measures": [
+      "Cloudflare protection",
+      "JavaScript obfuscation",
+      "Dynamic content loading",
+      "Anti-debugging measures"
+    ]
+  },
+  "connection_analysis": {
+    "total_connections_found": 1471,
+    "connection_types": {
+      "video_streams": 1471,
+      "api_endpoints": 13,
+      "cdn_servers": 8,
+      "player_configs": 1
+    },
+    "top_connections": [
+      {
+        "type": "video_stream",
+        "url": "hlsFpsDrop",
+        "priority": 90,
+        "description": "HLS流媒体相关配置"
+      },
+      {
+        "type": "api_endpoint",
+        "url": "https://www.a3m5m.com/s/video/shipin/1044455/data/",
+        "priority": 90,
+        "description": "视频数据API端点"
+      },
+      {
+        "type": "cdn_server",
+        "url": "https://mjs.szaction.cc/",
+        "priority": 75,
+        "description": "主要CDN服务器"
+      }
+    ],
+    "external_domains": [
+      "mjs.szaction.cc",
+      "mjson.szaction.cc",
+      "cdn.a3m5m.com",
+      "static.a3m5m.com",
+      "assets.a3m5m.com",
+      "dplayer.diygod.dev",
+      "github.com",
+      "momentjs.com",
+      "reactjs.org"
+    ]
+  },
+  "api_testing": {
+    "total_endpoints_tested": 20,
+    "successful_endpoints": 20,
+    "success_rate": "100%",
+    "response_type": "HTML pages (not JSON)",
+    "working_endpoints": [
+      "https://www.a3m5m.com/s/video/shipin/1044455/data",
+      "https://www.a3m5m.com/s/video/shipin/1044455/info",
+      "https://www.a3m5m.com/s/video/shipin/1044455/details",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/video/1044455",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/data/1044455",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/info/1044455",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/details/1044455",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/play/1044455",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/stream/1044455",
+      "https://www.a3m5m.com/s/video/shipin/1044455/api/media/1044455"
+    ],
+    "average_response_time": "0.55s",
+    "note": "所有API端点都返回HTML页面而不是JSON数据，说明这是一个SPA应用"
+  },
+  "javascript_analysis": {
+    "main_js_file_size": "1,906,607 字符",
+    "extraction_results": {
+      "video_configs": 0,
+      "video_urls": 0,
+      "api_endpoints": 252,
+      "player_configs": 0
+    },
+    "notable_findings": [
+      "JavaScript代码经过混淆和压缩",
+      "包含DPlayer和HLS.js相关代码",
+      "发现多个API端点引用",
+      "包含React框架代码",
+      "有反调试和反爬虫措施"
+    ],
+    "key_api_endpoints": [
+      "http://172.247.9.210:8900/api",
+      "http://23.224.129.130:9080/api/v1",
+      "https:///api/send"
+    ]
+  },
+  "final_recommendations": [
+    {
+      "type": "primary_api",
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/data",
+      "description": "主要视频数据端点，返回HTML页面",
+      "priority": "high",
+      "usage": "用于获取视频页面内容"
+    },
+    {
+      "type": "alternative_api",
+      "url": "https://www.a3m5m.com/s/video/shipin/1044455/info",
+      "description": "视频信息端点",
+      "priority": "high",
+      "usage": "用于获取视频详细信息"
+    },
+    {
+      "type": "cdn_server",
+      "url": "https://mjs.szaction.cc/",
+      "description": "主要CDN服务器",
+      "priority": "medium",
+      "usage": "用于获取静态资源"
+    },
+    {
+      "type": "javascript_file",
+      "url": "https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js",
+      "description": "主JavaScript文件",
+      "priority": "medium",
+      "usage": "包含视频播放器配置"
+    },
+    {
+      "type": "external_api",
+      "url": "http://172.247.9.210:8900/api",
+      "description": "外部API服务器",
+      "priority": "low",
+      "usage": "可能的视频数据源"
+    }
+  ],
+  "complete_connection_list": [
+    {
+      "category": "主要API端点",
+      "connections": [
+        "https://www.a3m5m.com/s/video/shipin/1044455/data",
+        "https://www.a3m5m.com/s/video/shipin/1044455/info",
+        "https://www.a3m5m.com/s/video/shipin/1044455/details",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/video/1044455",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/data/1044455",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/info/1044455",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/details/1044455",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/play/1044455",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/stream/1044455",
+        "https://www.a3m5m.com/s/video/shipin/1044455/api/media/1044455"
+      ]
+    },
+    {
+      "category": "CDN服务器",
+      "connections": [
+        "https://mjs.szaction.cc/",
+        "https://mjson.szaction.cc/",
+        "https://cdn.a3m5m.com/",
+        "https://static.a3m5m.com/",
+        "https://assets.a3m5m.com/",
+        "https://cdn4.buysellads.net/",
+        "https://www.gstatic.com/",
+        "https://aomedia.org/"
+      ]
+    },
+    {
+      "category": "静态资源",
+      "connections": [
+        "https://mjs.szaction.cc/build1/static/js/main.0b1a4dad.js",
+        "https://mjs.szaction.cc/build1/static/css/main.e5ec3bb5.css",
+        "https://mjs.szaction.cc/build1/favicon.ico"
+      ]
+    },
+    {
+      "category": "外部API",
+      "connections": [
+        "http://172.247.9.210:8900/api",
+        "http://23.224.129.130:9080/api/v1",
+        "https:///api/send"
+      ]
+    },
+    {
+      "category": "播放器相关",
+      "connections": [
+        "https://dplayer.diygod.dev/",
+        "https://github.com/",
+        "https://momentjs.com/",
+        "https://reactjs.org/"
+      ]
+    }
+  ]
+}

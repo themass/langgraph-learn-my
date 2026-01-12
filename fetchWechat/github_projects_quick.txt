@@ -1,0 +1,1163 @@
+GitHub 项目列表 (共 290 个)
+================================================================================
+
+1. https://github.com/01-ai/Yi
+   描述: 开源地址：https://github.com/01-ai/Yi
+   提及: 1 次
+
+2. https://github.com/18380438200/Tiktok
+   描述: https://github.com/18380438200/Tiktok
+   提及: 1 次
+
+3. https://github.com/1Panel-dev/MaxKB
+   描述: 开源地址：https://github.com/1Panel-dev/MaxKB
+   提及: 1 次
+
+4. https://github.com/20100507/emotional
+   描述: 地址：https://github.com/20100507/emotional\_analysis
+   提及: 1 次
+
+5. https://github.com/AI4Finance-Foundation/FinGPT
+   描述: 开源地址：https://github.com/AI4Finance-Foundation/FinGPT
+   提及: 1 次
+
+6. https://github.com/AIDC-AI/Pixelle-Video
+   描述: 开源地址：https://github.com/AIDC-AI/Pixelle-Video
+   提及: 3 次
+
+7. https://github.com/AmazingAng/WTF-Solidity
+   描述: 开源地址：https://github.com/AmazingAng/WTF-Solidity
+   提及: 1 次
+
+8. https://github.com/Anning01/AIMedia
+   描述: 开源地址：https://github.com/Anning01/AIMedia
+   提及: 3 次
+
+9. https://github.com/AnsGoo/openDataV
+   描述: 开源地址：https://github.com/AnsGoo/openDataV
+   提及: 1 次
+
+10. https://github.com/AntonOsika/gpt-engineer
+   描述: 开源地址：https://github.com/AntonOsika/gpt-engineer
+   提及: 1 次
+
+11. https://github.com/Awesome-Windows/Awesome
+   描述: _https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md_
+   提及: 1 次
+
+12. https://github.com/BloopAI/vibe-kanban
+   描述: 开源地址：https://github.com/BloopAI/vibe-kanban
+   提及: 1 次
+
+13. https://github.com/BuilderIO/gpt-crawler
+   描述: 开源地址：https://github.com/BuilderIO/gpt-crawler
+   提及: 1 次
+
+14. https://github.com/CaviraOSS/PageLM
+   描述: 开源地址：https://github.com/CaviraOSS/PageLM
+   提及: 1 次
+
+15. https://github.com/ChromeDevTools/chrome-devtools-mcp
+   描述: 开源地址：https://github.com/ChromeDevTools/chrome-devtools-mcp
+   提及: 1 次
+
+16. https://github.com/CodeEditApp/CodeEdit
+   描述: 开源地址：https://github.com/CodeEditApp/CodeEdit
+   提及: 2 次
+
+17. https://github.com/CompVis/stable-diffusion
+   描述: 开源地址：https://github.com/CompVis/stable-diffusion
+   提及: 1 次
+
+18. https://github.com/Cool-Coding/remote-desktop-control
+   描述: 开源地址：https://github.com/Cool-Coding/remote-desktop-control
+   提及: 3 次
+
+19. https://github.com/CopilotKit/CopilotKit
+   描述: 开源地址：https://github.com/CopilotKit/CopilotKit/blob/main/README.md
+   提及: 1 次
+
+20. https://github.com/DavidHDev/react-bits
+   描述: 开源地址：https://github.com/DavidHDev/react-bits
+   提及: 1 次
+
+21. https://github.com/DearVa/Everywhere
+   描述: 开源地址：https://github.com/DearVa/Everywhere
+   提及: 3 次
+
+22. https://github.com/DigitalPlatDev/FreeDomain
+   描述: 开源地址：https://github.com/DigitalPlatDev/FreeDomain
+   提及: 3 次
+
+23. https://github.com/Dooy/chatgpt-web-midjourney-proxy
+   描述: 开源地址：https://github.com/Dooy/chatgpt-web-midjourney-proxy
+   提及: 1 次
+
+24. https://github.com/DrewThomasson/ebook2audiobook
+   描述: 开源地址：https://github.com/DrewThomasson/ebook2audiobook
+   提及: 1 次
+
+25. https://github.com/EbookFoundation/free-programming-books
+   描述: 开源地址：https://github.com/EbookFoundation/free-programming-books
+   提及: 5 次
+
+26. https://github.com/Evil0ctal/Douyin
+   描述: 开源地址：https://github.com/Evil0ctal/Douyin\_TikTok\_Download\_API
+   提及: 2 次
+
+27. https://github.com/FlowiseAI/Flowise
+   描述: 开源地址: https://github.com/FlowiseAI/Flowise
+   提及: 2 次
+
+28. https://github.com/FoundationAgents/OpenManus
+   描述: 开源地址：https://github.com/FoundationAgents/OpenManus
+   提及: 1 次
+
+29. https://github.com/FreeRDP/FreeRDP
+   描述: 开源地址：https://github.com/FreeRDP/FreeRDP
+   提及: 3 次
+
+30. https://github.com/FunAudioLLM/Fun-Audio-Chat
+   描述: 开源地址：https://github.com/FunAudioLLM/Fun-Audio-Chat
+   提及: 1 次
+
+31. https://github.com/GyulyVGC/sniffnet
+   描述: 开源地址：https://github.com/GyulyVGC/sniffnet
+   提及: 1 次
+
+32. https://github.com/ItzCrazyKns/Perplexica
+   描述: 开源地址：https://github.com/ItzCrazyKns/Perplexica
+   提及: 1 次
+
+33. https://github.com/JanDeDobbeleer/oh-my-posh
+   描述: 开源地址：https://github.com/JanDeDobbeleer/oh-my-posh 参考文档：https://ohmyposh.dev/docs/
+   提及: 1 次
+
+34. https://github.com/JasonRobertDestiny/MeetSpot
+   描述: 开源地址：https://github.com/JasonRobertDestiny/MeetSpot
+   提及: 3 次
+
+35. https://github.com/JunzhouLiu/BILIBILI-HELPER
+   描述: https://github.com/JunzhouLiu/BILIBILI-HELPER
+   提及: 1 次
+
+36. https://github.com/KRTirtho/spotube
+   描述: 开源地址：https://github.com/KRTirtho/spotube
+   提及: 1 次
+
+37. https://github.com/Kaiyiwing/qwerty-learner
+   描述: 开源地址：https://github.com/Kaiyiwing/qwerty-learner
+   提及: 1 次
+
+38. https://github.com/Klavis-AI/klavis
+   描述: 开源地址：https://github.com/Klavis-AI/klavis
+   提及: 3 次
+
+39. https://github.com/KsanaDock/Microverse
+   描述: 开源地址：https://github.com/KsanaDock/Microverse
+   提及: 1 次
+
+40. https://github.com/Licoy/ChatGPT-Midjourney
+   描述: 开源地址：https://github.com/Licoy/ChatGPT-Midjourney
+   提及: 1 次
+
+41. https://github.com/LisaDziuba/Awesome-Design-Tools_
+   描述: _https://github.com/LisaDziuba/Awesome-Design-Tools_
+   提及: 1 次
+
+42. https://github.com/LorisYounger/VPet
+   描述: 开源地址：https://github.com/LorisYounger/VPet
+   提及: 1 次
+
+43. https://github.com/LuckyZXL2016/Movie
+   描述: 地址：https://github.com/LuckyZXL2016/Movie\_Recommend
+   提及: 1 次
+
+44. https://github.com/LuckyZXL2016/News
+   描述: 地址：https://github.com/LuckyZXL2016/News\_Spark ==============================================
+   提及: 1 次
+
+45. https://github.com/MODSetter/SurfSense
+   描述: 开源地址：https://github.com/MODSetter/SurfSense
+   提及: 1 次
+
+46. https://github.com/MichaelCade/90DaysOfDevOps
+   描述: 开源地址：https://github.com/MichaelCade/90DaysOfDevOps
+   提及: 1 次
+
+47. https://github.com/MineDojo/NitroGen
+   描述: 开源地址：https://github.com/MineDojo/NitroGen
+   提及: 1 次
+
+48. https://github.com/MineDojo/NitroGen02Meta
+   描述: 发布时间: 2026-1-6 摘要: 开源地址:https://github.com/MineDojo/NitroGen02Meta 推出音频分割模型Meta 之前的 Segment Anything Model 在图像分割领域可以...
+   提及: 1 次
+
+49. https://github.com/MiroMindAI/MiroThinker
+   描述: 开源地址：https://github.com/MiroMindAI/MiroThinker
+   提及: 1 次
+
+50. https://github.com/NanmiCoder/MediaCrawler
+   描述: 开源地址：https://github.com/NanmiCoder/MediaCrawler
+   提及: 3 次
+
+51. https://github.com/NaoTu/DesktopNaotu_
+   描述: _https://github.com/NaoTu/DesktopNaotu_
+   提及: 1 次
+
+52. https://github.com/OpenAISpace/ai-trend-publish
+   描述: GitHub 地址：https://github.com/OpenAISpace/ai-trend-publish
+   提及: 3 次
+
+53. https://github.com/OpenBMB/ChatDev
+   描述: 开源地址: https://github.com/OpenBMB/ChatDev
+   提及: 1 次
+
+54. https://github.com/OpenEmu/OpenEmu
+   描述: 开源地址：https://github.com/OpenEmu/OpenEmu
+   提及: 1 次
+
+55. https://github.com/OpenRA/OpenRA
+   描述: 项目地址：https://github.com/OpenRA/OpenRA
+   提及: 1 次
+
+56. https://github.com/OpenRCT2/OpenRCT2
+   描述: 项目地址：https://github.com/OpenRCT2/OpenRCT2
+   提及: 1 次
+
+57. https://github.com/OpenTTD/OpenTTD
+   描述: 项目地址：https://github.com/OpenTTD/OpenTTD
+   提及: 1 次
+
+58. https://github.com/PRIS-CV/DemoFusion
+   描述: 开源地址：https://github.com/PRIS-CV/DemoFusion
+   提及: 1 次
+
+59. https://github.com/PaddlePaddle/PaddleOCR
+   描述: Github：https://github.com/PaddlePaddle/PaddleOCR
+   提及: 1 次
+
+60. https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+   描述: 开源地址：https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+   提及: 1 次
+
+61. https://github.com/Portkey-AI/gateway
+   描述: 开源地址：https://github.com/Portkey-AI/gateway
+   提及: 1 次
+
+62. https://github.com/QwenLM/Qwen-7B
+   描述: 开源地址：https://github.com/QwenLM/Qwen-7B
+   提及: 1 次
+
+63. https://github.com/QwenLM/Qwen-Image-Layered
+   描述: 开源地址：https://github.com/QwenLM/Qwen-Image-Layered
+   提及: 1 次
+
+64. https://github.com/QwenLM/Qwen3
+   描述: 开源地址：https://github.com/QwenLM/Qwen3
+   提及: 1 次
+
+65. https://github.com/RAOE/show-videos
+   描述: 项目地址：https://github.com/RAOE/show-videos
+   提及: 1 次
+
+66. https://github.com/RVC-Boss/GPT-SoVITS
+   描述: 开源地址：https://github.com/RVC-Boss/GPT-SoVITS
+   提及: 1 次
+
+67. https://github.com/RanFeng/clipsketch-ai
+   描述: 开源地址：https://github.com/RanFeng/clipsketch-ai
+   提及: 3 次
+
+68. https://github.com/RayWangQvQ/BiliBiliToolPro
+   描述: 开源地址：https://github.com/RayWangQvQ/BiliBiliToolPro
+   提及: 1 次
+
+69. https://github.com/Ryujinx/Ryujinx
+   描述: 开源地址：https://github.com/Ryujinx/Ryujinx
+   提及: 3 次
+
+70. https://github.com/SFTtech/openage
+   描述: 开源地址：https://github.com/SFTtech/openage
+   提及: 1 次
+
+71. https://github.com/SawyerHood/draw-a-ui
+   描述: 开源地址：https://github.com/SawyerHood/draw-a-ui
+   提及: 1 次
+
+72. https://github.com/Shubhamsaboo/awesome-llm-apps
+   描述: 开源地址：https://github.com/Shubhamsaboo/awesome-llm-apps
+   提及: 1 次
+
+73. https://github.com/Significant-Gravitas/AutoGPT
+   描述: 开源地址: https://github.com/Significant-Gravitas/AutoGPT
+   提及: 1 次
+
+74. https://github.com/SmartKeyerror/Psyduck
+   描述: > > 仓库地址：https://github.com/SmartKeyerror/Psyduck >
+   提及: 1 次
+
+75. https://github.com/StanGirard/quivr
+   描述: 开源地址：https://github.com/StanGirard/quivr
+   提及: 1 次
+
+76. https://github.com/THUDM/ChatGLM-6B
+   描述: 消费级 PC 大模型：https://github.com/THUDM/ChatGLM-6B 全平台抖音抓包：https://github.com/wwengg/douyin
+   提及: 1 次
+
+77. https://github.com/TabbyML/tabby
+   描述: 开源地址：https://github.com/TabbyML/tabby
+   提及: 1 次
+
+78. https://github.com/Tencent-Hunyuan/HunyuanVideo
+   描述: 开源地址：https://github.com/Tencent-Hunyuan/HunyuanVideo
+   提及: 1 次
+
+79. https://github.com/Tencent/WeKnora
+   描述: 开源地址：https://github.com/Tencent/WeKnora
+   提及: 1 次
+
+80. https://github.com/Tencent/cherry-markdown
+   描述: 开源地址：https://github.com/Tencent/cherry-markdown
+   提及: 2 次
+
+81. https://github.com/Tencent/lemon-cleaner
+   描述: 开源地址：https://github.com/Tencent/lemon-cleaner
+   提及: 1 次
+
+82. https://github.com/Tencent/secguide
+   描述: 开源地址：https://github.com/Tencent/secguide
+   提及: 1 次
+
+83. https://github.com/Tencent/spring-cloud-tencent
+   描述: 开源地址：https://github.com/Tencent/spring-cloud-tencent
+   提及: 1 次
+
+84. https://github.com/TencentARC/GFPGAN
+   描述: 开源地址：https://github.com/TencentARC/GFPGAN
+   提及: 1 次
+
+85. https://github.com/Textualize/textual
+   描述: 开源地址：https://github.com/Textualize/textual
+   提及: 1 次
+
+86. https://github.com/TheRamU/Fay
+   描述: 开源地址：https://github.com/TheRamU/Fay
+   提及: 1 次
+
+87. https://github.com/ToolJet/ToolJet
+   描述: 开源地址：https://github.com/ToolJet/ToolJet
+   提及: 1 次
+
+88. https://github.com/TransformerOptimus/SuperAGI
+   描述: 开源地址: https://github.com/TransformerOptimus/SuperAGI
+   提及: 3 次
+
+89. https://github.com/TurixAI/TuriX-CUA
+   描述: 开源地址：https://github.com/TurixAI/TuriX-CUA
+   提及: 1 次
+
+90. https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
+   描述: 地址：https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
+   提及: 34 次
+
+91. https://github.com/WerWolv/ImHex
+   描述: 开源地址：https://github.com/WerWolv/ImHex
+   提及: 1 次
+
+92. https://github.com/abi/screenshot-to-code
+   描述: 开源地址：https://github.com/abi/screenshot-to-code 在线版本：https://picoapps.xyz/free-tools/screenshot-to-code
+   提及: 1 次
+
+93. https://github.com/adlered/bolo-solo
+   描述: 开源地址：https://github.com/adlered/bolo-solo
+   提及: 1 次
+
+94. https://github.com/afatcoder/LeetcodeTop
+   描述: GitHub地址：https://github.com/afatcoder/LeetcodeTop
+   提及: 3 次
+
+95. https://github.com/akanimax/T2F
+   描述: 开源地址：https://github.com/akanimax/T2F
+   提及: 1 次
+
+96. https://github.com/alembics/disco-diffusion
+   描述: 开源地址：https://github.com/alembics/disco-diffusion
+   提及: 1 次
+
+97. https://github.com/anthropics/claude-cookbooks
+   描述: 开源地址：https://github.com/anthropics/claude-cookbooks
+   提及: 1 次
+
+98. https://github.com/anthropics/prompt-eng-interactive-tutorial
+   描述: 开源地址：https://github.com/anthropics/prompt-eng-interactive-tutorial
+   提及: 1 次
+
+99. https://github.com/anthropics/skills
+   描述: 开源地址：https://github.com/anthropics/skills
+   提及: 2 次
+
+100. https://github.com/atelier-anchor/smiley-sans
+   描述: 开源地址：https://github.com/atelier-anchor/smiley-sans
+   提及: 3 次
+
+101. https://github.com/bigskysoftware/htmx
+   描述: 开源地址：https://github.com/bigskysoftware/htmx
+   提及: 2 次
+
+102. https://github.com/binary-husky/gpt
+   描述: 开源地址：https://github.com/binary-husky/gpt\_academic
+   提及: 1 次
+
+103. https://github.com/binjie09/one-api
+   描述: 开源地址：https://github.com/binjie09/one-api
+   提及: 1 次
+
+104. https://github.com/binwiederhier/ntfy
+   描述: 开源地址：https://github.com/binwiederhier/ntfy
+   提及: 3 次
+
+105. https://github.com/black-forest-labs/flux
+   描述: 开源地址：https://github.com/black-forest-labs/flux
+   提及: 1 次
+
+106. https://github.com/boyan01/flutter-netease-music
+   描述: 地址：https://github.com/boyan01/flutter-netease-music
+   提及: 1 次
+
+107. https://github.com/brannondorsey/wifi-cracking
+   描述: 开源项目：https://github.com/brannondorsey/wifi-cracking
+   提及: 1 次
+
+108. https://github.com/breaking-brake/cc-wf-studio
+   描述: 开源地址：https://github.com/breaking-brake/cc-wf-studio
+   提及: 1 次
+
+109. https://github.com/bytebase/star-history
+   描述: 项目地址：https://github.com/bytebase/star-history官网：https://star-history.com/
+   提及: 1 次
+
+110. https://github.com/chaitin/SafeLine
+   描述: 开源地址：https://github.com/chaitin/SafeLine
+   提及: 2 次
+
+111. https://github.com/chathub-dev/chathub
+   描述: 开源地址：https://github.com/chathub-dev/chathub
+   提及: 1 次
+
+112. https://github.com/chaychan/TouTiao
+   描述: 项目地址：https://github.com/chaychan/TouTiao
+   提及: 1 次
+
+113. https://github.com/cjpais/Handy
+   描述: 开源地址：https://github.com/cjpais/Handy
+   提及: 1 次
+
+114. https://github.com/cline/cline
+   描述: 开源地址：https://github.com/cline/cline
+   提及: 1 次
+
+115. https://github.com/cocoindex-io/cocoindex
+   描述: 开源地址：https://github.com/cocoindex-io/cocoindex
+   提及: 1 次
+
+116. https://github.com/code-mcx/react-bilibili
+   描述: 链接：https://github.com/code-mcx/react-bilibili
+   提及: 1 次
+
+117. https://github.com/comfyanonymous/ComfyUI
+   描述: 开源地址：https://github.com/comfyanonymous/ComfyUI
+   提及: 1 次
+
+118. https://github.com/conaticus/FileExplorer
+   描述: 开源地址：https://github.com/conaticus/FileExplorer
+   提及: 1 次
+
+119. https://github.com/cporter202/lovable-for-beginners
+   描述: 开源地址：https://github.com/cporter202/lovable-for-beginners
+   提及: 1 次
+
+120. https://github.com/crewAIInc/crewAI
+   描述: 开源地址: https://github.com/crewAIInc/crewAI
+   提及: 1 次
+
+121. https://github.com/csmliu/STGAN
+   描述: 地址：https://github.com/csmliu/STGAN
+   提及: 1 次
+
+122. https://github.com/csunny/DB-GPT
+   描述: 开源地址：https://github.com/csunny/DB-GPT
+   提及: 1 次
+
+123. https://github.com/czlonkowski/n8n-mcp
+   描述: 开源地址：https://github.com/czlonkowski/n8n-mcp
+   提及: 1 次
+
+124. https://github.com/danielgindi/Charts
+   描述: 开源项目：https://github.com/danielgindi/Charts
+   提及: 1 次
+
+125. https://github.com/danielmiessler/Fabric
+   描述: 开源地址：https://github.com/danielmiessler/Fabric
+   提及: 1 次
+
+126. https://github.com/danistefanovic/build-your-own-x
+   描述: 地址：https://github.com/danistefanovic/build-your-own-x
+   提及: 3 次
+
+127. https://github.com/danswer-ai/danswer
+   描述: 开源地址：https://github.com/danswer-ai/danswer
+   提及: 1 次
+
+128. https://github.com/dataabc/weiboSpider
+   描述: https://github.com/dataabc/weiboSpider
+   提及: 1 次
+
+129. https://github.com/davila7/claude-code-templates
+   描述: 开源地址：https://github.com/davila7/claude-code-templates
+   提及: 1 次
+
+130. https://github.com/deepseek-ai/DeepSeek-R1
+   描述: 开源地址：https://github.com/deepseek-ai/DeepSeek-R1
+   提及: 1 次
+
+131. https://github.com/despoisj/DeepEyeControl
+   描述: 开源地址：https://github.com/despoisj/DeepEyeControl
+   提及: 1 次
+
+132. https://github.com/diasurgical/DevilutionX
+   描述: 项目地址：https://github.com/diasurgical/DevilutionX
+   提及: 1 次
+
+133. https://github.com/digitalocean/nginxconfig.io
+   描述: 开源地址：https://github.com/digitalocean/nginxconfig.io
+   提及: 3 次
+
+134. https://github.com/documenso/documenso
+   描述: 开源地址：https://github.com/documenso/documenso
+   提及: 1 次
+
+135. https://github.com/donnemartin/system-design-primer
+   描述: 地址：https://github.com/donnemartin/system-design-primer
+   提及: 3 次
+
+136. https://github.com/dxx/react-bilibili
+   描述: 开源地址：https://github.com/dxx/react-bilibili
+   提及: 1 次
+
+137. https://github.com/eosphoros-ai/DB-GPT
+   描述: 开源地址：https://github.com/eosphoros-ai/DB-GPT
+   提及: 1 次
+
+138. https://github.com/excalidraw/excalidraw
+   描述: 开源地址：https://github.com/excalidraw/excalidraw
+   提及: 2 次
+
+139. https://github.com/facebookresearch/audiocraft
+   描述: 开源地址：https://github.com/facebookresearch/audiocraft
+   提及: 1 次
+
+140. https://github.com/facebookresearch/sam-audio
+   描述: 开源地址：https://github.com/facebookresearch/sam-audio
+   提及: 1 次
+
+141. https://github.com/facefusion/facefusion
+   描述: 开源地址：https://github.com/facefusion/facefusion
+   提及: 1 次
+
+142. https://github.com/geekan/MetaGPT
+   描述: 开源地址: https://github.com/geekan/MetaGPT
+   提及: 2 次
+
+143. https://github.com/geekyouth/SZT-bigdata
+   描述: https://github.com/geekyouth/SZT-bigdata
+   提及: 1 次
+
+144. https://github.com/giantpinkrobots/varia
+   描述: 开源地址：https://github.com/giantpinkrobots/varia
+   提及: 1 次
+
+145. https://github.com/github/gitignore
+   描述: 地址：https://github.com/github/gitignore
+   提及: 3 次
+
+146. https://github.com/gkd-kit/gkd
+   描述: 开源地址：https://github.com/gkd-kit/gkd
+   提及: 1 次
+
+147. https://github.com/goodrain/rainbond
+   描述: 开源地址：https://github.com/goodrain/rainbond
+   提及: 1 次
+
+148. https://github.com/google/A2UI
+   描述: 开源地址：https://github.com/google/A2UI
+   提及: 2 次
+
+149. https://github.com/google/langextract
+   描述: 开源地址：https://github.com/google/langextract
+   提及: 1 次
+
+150. https://github.com/halo-dev/halo
+   描述: 项目地址：https://github.com/halo-dev/halo
+   提及: 1 次
+
+151. https://github.com/hehonghui/the-economist-ebooks
+   描述: GitHub 地址：https://github.com/hehonghui/the-economist-ebooks
+   提及: 3 次
+
+152. https://github.com/hellodigua/ChatLab
+   描述: 开源地址：https://github.com/hellodigua/ChatLab
+   提及: 3 次
+
+153. https://github.com/honghuangdc/soybean-admin
+   描述: 开源地址：https://github.com/honghuangdc/soybean-admin
+   提及: 1 次
+
+154. https://github.com/hpcaitech/Open-Sora
+   描述: 开源地址：https://github.com/hpcaitech/Open-Sora
+   提及: 3 次
+
+155. https://github.com/iCHAIT/awesome-macOS
+   描述: 开源地址：https://github.com/iCHAIT/awesome-macOS
+   提及: 3 次
+
+156. https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+   描述: GitHub地址：https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+   提及: 3 次
+
+157. https://github.com/immich-app/immich
+   描述: 开源地址：https://github.com/immich-app/immich
+   提及: 1 次
+
+158. https://github.com/infiniflow/ragflow
+   描述: 开源地址：https://github.com/infiniflow/ragflow
+   提及: 1 次
+
+159. https://github.com/iptv-org/iptv
+   描述: 开源地址：https://github.com/iptv-org/iptv
+   提及: 1 次
+
+160. https://github.com/itorr/nbnhhsh
+   描述: https://github.com/itorr/nbnhhsh
+   提及: 3 次
+
+161. https://github.com/itwanger/toBeBetterJavaer
+   描述: 开源地址：https://github.com/itwanger/toBeBetterJavaer
+   提及: 1 次
+
+162. https://github.com/ixahmedxi/noodle
+   描述: 开源地址：https://github.com/ixahmedxi/noodle
+   提及: 1 次
+
+163. https://github.com/jackfrued/Python-Interview-Bible
+   描述: https://github.com/jackfrued/Python-Interview-Bible
+   提及: 1 次
+
+164. https://github.com/janhq/jan
+   描述: 开源地址：https://github.com/janhq/jan
+   提及: 1 次
+
+165. https://github.com/jayfunc/BetterLyrics
+   描述: 开源地址：https://github.com/jayfunc/BetterLyrics
+   提及: 3 次
+
+166. https://github.com/jaywcjlove/awesome-mac
+   描述: _https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md_
+   提及: 2 次
+
+167. https://github.com/jaywcjlove/awesome-mac_
+   描述: Awesome Mac: _https://github.com/jaywcjlove/awesome-mac_
+   提及: 2 次
+
+168. https://github.com/jaywcjlove/reference
+   描述: 开源地址：https://github.com/jaywcjlove/reference
+   提及: 3 次
+
+169. https://github.com/jeecgboot/jeecg-boot
+   描述: 开源地址：https://github.com/jeecgboot/jeecg-boot
+   提及: 1 次
+
+170. https://github.com/jgraph/drawio
+   描述: 开源地址：https://github.com/jgraph/drawio 开源地址：https://github.com/jgraph/drawio-desktop
+   提及: 1 次
+
+171. https://github.com/jgraph/drawio-desktop
+   描述: 开源地址：https://github.com/jgraph/drawio 开源地址：https://github.com/jgraph/drawio-desktop
+   提及: 1 次
+
+172. https://github.com/jigish/slate
+   描述: 开源地址：https://github.com/jigish/slate
+   提及: 1 次
+
+173. https://github.com/jlevy/the-art-of-command-line
+   描述: 地址：https://github.com/jlevy/the-art-of-command-line
+   提及: 3 次
+
+174. https://github.com/junyanz/CycleGAN
+   描述: 地址：https://github.com/junyanz/CycleGAN
+   提及: 1 次
+
+175. https://github.com/jynew/jynew
+   描述: 开源地址：https://github.com/jynew/jynew
+   提及: 1 次
+
+176. https://github.com/jzhang38/TinyLlama
+   描述: 开源地址：https://github.com/jzhang38/TinyLlama
+   提及: 1 次
+
+177. https://github.com/kamranahmedse/developer-roadmap
+   描述: 地址：https://github.com/kamranahmedse/developer-roadmap
+   提及: 3 次
+
+178. https://github.com/karpathy/nanochat
+   描述: 开源地址：https://github.com/karpathy/nanochat
+   提及: 1 次
+
+179. https://github.com/komeiji-satori/Dress
+   描述: 地址：https://github.com/komeiji-satori/Dress
+   提及: 2 次
+
+180. https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+   描述: 项目地址：https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
+   提及: 1 次
+
+181. https://github.com/kuaifan/dootask.git
+   描述: \ 或者你也可以使用https git clone https://github.com/kuaifan/dootask.git
+   提及: 1 次
+
+182. https://github.com/kuchin/awesome-ceo
+   描述: 开源地址：https://github.com/kuchin/awesome-ceo
+   提及: 1 次
+
+183. https://github.com/kunkundi/crossdesk
+   描述: 开源地址：https://github.com/kunkundi/crossdesk
+   提及: 3 次
+
+184. https://github.com/kyleduo/TinyPNG4Mac_
+   描述: _https://github.com/kyleduo/TinyPNG4Mac_
+   提及: 1 次
+
+185. https://github.com/labring/FastGPT
+   描述: 开源地址：https://github.com/labring/FastGPT
+   提及: 1 次
+
+186. https://github.com/lanceliao/china-holiday-calender
+   描述: 开源地址：https://github.com/lanceliao/china-holiday-calender
+   提及: 1 次
+
+187. https://github.com/langchain-ai/langchain
+   描述: 开源地址：https://github.com/langchain-ai/langchain
+   提及: 1 次
+
+188. https://github.com/langgenius/dify
+   描述: 开源地址: https://github.com/langgenius/dify
+   提及: 2 次
+
+189. https://github.com/laurent22/joplin
+   描述: 开源地址：https://github.com/laurent22/joplin
+   提及: 1 次
+
+190. https://github.com/letta-ai/letta
+   描述: 开源地址：https://github.com/letta-ai/letta
+   提及: 1 次
+
+191. https://github.com/lfnovo/open-notebook
+   描述: 开源地址：https://github.com/lfnovo/open-notebook
+   提及: 1 次
+
+192. https://github.com/lib-pku/libpku_
+   描述: _https://github.com/lib-pku/libpku_
+   提及: 1 次
+
+193. https://github.com/linexjlin/GPTs
+   描述: 开源地址：https://github.com/linexjlin/GPTs
+   提及: 1 次
+
+194. https://github.com/lllyasviel/fooocus
+   描述: 开源地址：https://github.com/lllyasviel/fooocus
+   提及: 1 次
+
+195. https://github.com/lobehub/lobe-chat
+   描述: 开源地址：https://github.com/lobehub/lobe-chat
+   提及: 1 次
+
+196. https://github.com/luban-agi/Awesome-AIGC-Tutorials
+   描述: 开源地址：https://github.com/luban-agi/Awesome-AIGC-Tutorials
+   提及: 1 次
+
+197. https://github.com/luochana/News
+   描述: 地址：https://github.com/luochana/News\_recommend
+   提及: 1 次
+
+198. https://github.com/lvwzhen/law-cn-ai
+   描述: 开源地址：https://github.com/lvwzhen/law-cn-ai
+   提及: 1 次
+
+199. https://github.com/lxgw/LxgwWenKai
+   描述: GitHub地址：https://github.com/lxgw/LxgwWenKai
+   提及: 3 次
+
+200. https://github.com/lyswhut/lx-music-desktop
+   描述: 开源地址：https://github.com/lyswhut/lx-music-desktop 开源地址：https://github.com/lyswhut/lx-music-mobile
+   提及: 1 次
+
+201. https://github.com/lyswhut/lx-music-mobile
+   描述: 开源地址：https://github.com/lyswhut/lx-music-desktop 开源地址：https://github.com/lyswhut/lx-music-mobile
+   提及: 1 次
+
+202. https://github.com/maHidaka/ros
+   描述: 开源地址：https://github.com/maHidaka/ros\_face
+   提及: 1 次
+
+203. https://github.com/makeplane/plane
+   描述: 开源地址：https://github.com/makeplane/plane
+   提及: 1 次
+
+204. https://github.com/mayooear/gpt4-pdf-chatbot-langchain
+   描述: 开源地址：https://github.com/mayooear/gpt4-pdf-chatbot-langchain
+   提及: 1 次
+
+205. https://github.com/meta-llama/llama3
+   描述: 开源地址：https://github.com/meta-llama/llama3
+   提及: 1 次
+
+206. https://github.com/microsoft/PowerToys
+   描述: 开源地址：https://github.com/microsoft/PowerToys
+   提及: 1 次
+
+207. https://github.com/microsoft/TaskWeaver
+   描述: 开源地址：https://github.com/microsoft/TaskWeaver
+   提及: 1 次
+
+208. https://github.com/microsoft/autogen
+   描述: 开源地址: https://github.com/microsoft/autogen
+   提及: 1 次
+
+209. https://github.com/microsoft/playwright
+   描述: 开源地址：https://github.com/microsoft/playwright
+   提及: 1 次
+
+210. https://github.com/mindskip/xzs
+   描述: 地址：https://github.com/mindskip/xzs
+   提及: 1 次
+
+211. https://github.com/miurla/morphic
+   描述: 开源地址：https://github.com/miurla/morphic
+   提及: 3 次
+
+212. https://github.com/mlabonne/llm-course
+   描述: 开源地址：https://github.com/mlabonne/llm-course
+   提及: 1 次
+
+213. https://github.com/mqyqingfeng/Blog
+   描述: 项目地址：https://github.com/mqyqingfeng/Blog
+   提及: 1 次
+
+214. https://github.com/mylxsw/aidea
+   描述: 客户端：https://github.com/mylxsw/aidea 服务端：https://github.com/mylxsw/aidea-server
+   提及: 1 次
+
+215. https://github.com/mylxsw/aidea-server
+   描述: 客户端：https://github.com/mylxsw/aidea 服务端：https://github.com/mylxsw/aidea-server
+   提及: 1 次
+
+216. https://github.com/n8n-io/n8n
+   描述: 开源地址：https://github.com/n8n-io/n8n
+   提及: 1 次
+
+217. https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting
+   描述: 开源地址：https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting
+   提及: 1 次
+
+218. https://github.com/netease-youdao/QAnything
+   描述: 开源地址：https://github.com/netease-youdao/QAnything
+   提及: 3 次
+
+219. https://github.com/nextui-org/nextui
+   描述: 开源地址：https://github.com/nextui-org/nextui
+   提及: 1 次
+
+220. https://github.com/nibzard/awesome-agentic-patterns
+   描述: 开源地址：https://github.com/nibzard/awesome-agentic-patterns
+   提及: 1 次
+
+221. https://github.com/nocodb/nocodb
+   描述: 开源地址：https://github.com/nocodb/nocodb
+   提及: 1 次
+
+222. https://github.com/ohmyzsh/ohmyzsh
+   描述: 地址：https://github.com/ohmyzsh/ohmyzsh
+   提及: 3 次
+
+223. https://github.com/opencurve/curve
+   描述: > > https://github.com/opencurve/curve
+   提及: 2 次
+
+224. https://github.com/oxc-project/oxc
+   描述: 开源地址：https://github.com/oxc-project/oxc
+   提及: 1 次
+
+225. https://github.com/patriciogonzalezvivo/glslViewer
+   描述: 开源地址：https://github.com/patriciogonzalezvivo/glslViewer
+   提及: 1 次
+
+226. https://github.com/pengLP/sina
+   描述: 地址：https://github.com/pengLP/sina\_analysis
+   提及: 1 次
+
+227. https://github.com/phachon/mm-wiki
+   描述: 开源地址：https://github.com/phachon/mm-wiki
+   提及: 1 次
+
+228. https://github.com/phidatahq/phidata
+   描述: 开源地址：https://github.com/phidatahq/phidata
+   提及: 1 次
+
+229. https://github.com/phodal/github
+   描述: https://github.com/phodal/github
+   提及: 1 次
+
+230. https://github.com/pickle-com/glass
+   描述: 开源地址：https://github.com/pickle-com/glass
+   提及: 3 次
+
+231. https://github.com/pjialin/py12306
+   描述: 开源地址：https://github.com/pjialin/py12306
+   提及: 1 次
+
+232. https://github.com/powerline/fonts
+   描述: 开源地址：https://github.com/powerline/fonts
+   提及: 1 次
+
+233. https://github.com/projectdiscovery/katana
+   描述: 开源地址：https://github.com/projectdiscovery/katana
+   提及: 3 次
+
+234. https://github.com/public-apis/public-apis
+   描述: 地址：https://github.com/public-apis/public-apis
+   提及: 3 次
+
+235. https://github.com/q2316367743/es-client
+   描述: > > https://github.com/q2316367743/es-client
+   提及: 2 次
+
+236. https://github.com/qgis/QGIS
+   描述: 开源地址：https://github.com/qgis/QGIS
+   提及: 1 次
+
+237. https://github.com/quasar/Quasar
+   描述: 开源地址：https://github.com/quasar/Quasar
+   提及: 3 次
+
+238. https://github.com/rendercv/rendercv
+   描述: 开源地址：https://github.com/rendercv/rendercv
+   提及: 1 次
+
+239. https://github.com/resemble-ai/chatterbox
+   描述: 开源地址：https://github.com/resemble-ai/chatterbox
+   提及: 2 次
+
+240. https://github.com/ripperhe/Bob
+   描述: 项目地址：https://github.com/ripperhe/Bob
+   提及: 1 次
+
+241. https://github.com/rocboss/paopao-ce
+   描述: 开源地址：https://github.com/rocboss/paopao-ce
+   提及: 1 次
+
+242. https://github.com/ruanyf/free-books_
+   描述: _https://github.com/ruanyf/free-books_
+   提及: 1 次
+
+243. https://github.com/ruanyf/weekly
+   描述: 开源地址：https://github.com/ruanyf/weekly/issues/3157
+   提及: 1 次
+
+244. https://github.com/run-llama/notebookllama
+   描述: 开源地址：https://github.com/run-llama/notebookllama
+   提及: 1 次
+
+245. https://github.com/rustdesk/rustdesk
+   描述: 开源地址：https://github.com/rustdesk/rustdesk
+   提及: 3 次
+
+246. https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+   描述: 开源地址：https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+   提及: 1 次
+
+247. https://github.com/s-unscrupulous/idea
+   描述: 地址：https://github.com/s-unscrupulous/idea\_seat
+   提及: 1 次
+
+248. https://github.com/s0md3v/roop
+   描述: 开源地址：https://github.com/s0md3v/roop
+   提及: 1 次
+
+249. https://github.com/sammyuri/craftgpt
+   描述: 开源地址：https://github.com/sammyuri/craftgpt
+   提及: 3 次
+
+250. https://github.com/servo/servo
+   描述: 开源地址：https://github.com/servo/servo
+   提及: 1 次
+
+251. https://github.com/showlab/Paper2Video
+   描述: 开源地址：https://github.com/showlab/Paper2Video
+   提及: 1 次
+
+252. https://github.com/sindresorhus/hyper-snazzy
+   描述: 开源地址：https://github.com/sindresorhus/hyper-snazzy 开源地址：https://github.com/sindresorhus/iterm2-snazzy
+   提及: 1 次
+
+253. https://github.com/sindresorhus/iterm2-snazzy
+   描述: 开源地址：https://github.com/sindresorhus/hyper-snazzy 开源地址：https://github.com/sindresorhus/iterm2-snazzy 开源地址：https://github.com/sindresorhus/terminal-snazzy
+   提及: 1 次
+
+254. https://github.com/sindresorhus/terminal-snazzy
+   描述: 开源地址：https://github.com/sindresorhus/iterm2-snazzy 开源地址：https://github.com/sindresorhus/terminal-snazzy
+   提及: 1 次
+
+255. https://github.com/sinelaw/fresh
+   描述: 开源地址：https://github.com/sinelaw/fresh
+   提及: 1 次
+
+256. https://github.com/skywind3000/preserve-cd
+   描述: 开源地址：https://github.com/skywind3000/preserve-cd
+   提及: 1 次
+
+257. https://github.com/souzatharsis/podcastfy
+   描述: 开源地址：https://github.com/souzatharsis/podcastfy
+   提及: 1 次
+
+258. https://github.com/sshiqiao/douyin-ios-objectc
+   描述: https://github.com/sshiqiao/douyin-ios-objectc
+   提及: 1 次
+
+259. https://github.com/stanfordnlp/dspy
+   描述: 开源地址：https://github.com/stanfordnlp/dspy
+   提及: 1 次
+
+260. https://github.com/steipete/agent-rules
+   描述: 开源地址：https://github.com/steipete/agent-rules
+   提及: 1 次
+
+261. https://github.com/stitionai/devika
+   描述: 开源地址：https://github.com/stitionai/devika
+   提及: 3 次
+
+262. https://github.com/tangshimin/typing-learner
+   描述: 开源地址：https://github.com/tangshimin/typing-learner
+   提及: 1 次
+
+263. https://github.com/testerSunshine/12306
+   描述: 开源地址：https://github.com/testerSunshine/12306
+   提及: 1 次
+
+264. https://github.com/theaiautomators/insights-lm-public
+   描述: 开源地址：https://github.com/theaiautomators/insights-lm-public
+   提及: 1 次
+
+265. https://github.com/tldraw/tldraw
+   描述: 开源项目：https://github.com/tldraw/tldraw
+   提及: 1 次
+
+266. https://github.com/trekhleb/javascript-algorithms
+   描述: 地址：https://github.com/trekhleb/javascript-algorithms
+   提及: 3 次
+
+267. https://github.com/upscayl/upscayl
+   描述: 开源地址：https://github.com/upscayl/upscayl/wiki/Guide 开源地址：https://github.com/xinntao/Real-ESRGAN
+   提及: 1 次
+
+268. https://github.com/usememos/memos
+   描述: 开源地址：https://github.com/usememos/memos
+   提及: 1 次
+
+269. https://github.com/vikhyat/moondream
+   描述: 开源地址：https://github.com/vikhyat/moondream
+   提及: 1 次
+
+270. https://github.com/vnotex/vnote
+   描述: 开源地址：https://github.com/vnotex/vnote
+   提及: 1 次
+
+271. https://github.com/vooidzero/B23Downloader
+   描述: GitHub地址：https://github.com/vooidzero/B23Downloader
+   提及: 3 次
+
+272. https://github.com/waityousea/xuniren
+   描述: UE5工程：https://github.com/xszyou/fay-ue5 实时照片驱动集成：https://github.com/waityousea/xuniren
+   提及: 1 次
+
+273. https://github.com/wbkd/react-flow
+   描述: 开源地址：https://github.com/wbkd/react-flow
+   提及: 1 次
+
+274. https://github.com/wenhan-wu/OpenCourseCatalog_
+   描述: _https://github.com/wenhan-wu/OpenCourseCatalog_
+   提及: 1 次
+
+275. https://github.com/whyour/qinglong
+   描述: GitHub地址：https://github.com/whyour/qinglong
+   提及: 3 次
+
+276. https://github.com/wwengg/douyin
+   描述: 消费级 PC 大模型：https://github.com/THUDM/ChatGLM-6B 全平台抖音抓包：https://github.com/wwengg/douyin UE5工程：https://github.com/xszyou/fay-ue5
+   提及: 1 次
+
+277. https://github.com/xai-org/grok-1
+   描述: 开源地址：https://github.com/xai-org/grok-1
+   提及: 3 次
+
+278. https://github.com/xiangsx/gpt4free-ts
+   描述: 开源地址：https://github.com/xiangsx/gpt4free-ts
+   提及: 1 次
+
+279. https://github.com/xiaoli1999/custom-avatar
+   描述: 开源地址：https://github.com/xiaoli1999/custom-avatar
+   提及: 1 次
+
+280. https://github.com/xiaoxian521/vue-pure-admin
+   描述: 开源地址：https://github.com/xiaoxian521/vue-pure-admin
+   提及: 2 次
+
+281. https://github.com/xinntao/Real-ESRGAN
+   描述: 开源地址：https://github.com/upscayl/upscayl/wiki/Guide 开源地址：https://github.com/xinntao/Real-ESRGAN
+   提及: 1 次
+
+282. https://github.com/xszyou/fay-ue5
+   描述: 全平台抖音抓包：https://github.com/wwengg/douyin UE5工程：https://github.com/xszyou/fay-ue5 实时照片驱动集成：https://github.com/waityousea/xuniren
+   提及: 1 次
+
+283. https://github.com/xushengfeng/eSearch
+   描述: 开源地址：https://github.com/xushengfeng/eSearch
+   提及: 1 次
+
+284. https://github.com/xuxueli/xxl-job
+   描述: 项目地址：https://github.com/xuxueli/xxl-job
+   提及: 1 次
+
+285. https://github.com/yangjianxin1/Firefly
+   描述: 开源地址：https://github.com/yangjianxin1/Firefly
+   提及: 1 次
+
+286. https://github.com/yifeikong/reverse-interview-zh
+   描述: 项目地址：https://github.com/yifeikong/reverse-interview-zh
+   提及: 1 次
+
+287. https://github.com/yukilzw/dy
+   描述: 地址：https://github.com/yukilzw/dy\_flutter
+   提及: 1 次
+
+288. https://github.com/zhaoolee/ChromeAppHeroes_
+   描述: _https://github.com/zhaoolee/ChromeAppHeroes_
+   提及: 1 次
+
+289. https://github.com/zhongyang219/TrafficMonitor
+   描述: GitHub地址：https://github.com/zhongyang219/TrafficMonitor
+   提及: 3 次
+
+290. https://github.com/zwStar/vue-meituan
+   描述: 项目地址：https://github.com/zwStar/vue-meituan
+   提及: 1 次
+
