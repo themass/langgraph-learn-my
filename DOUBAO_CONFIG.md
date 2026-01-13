@@ -2,7 +2,9 @@
 
 ## 配置步骤
 
-在项目根目录创建或编辑 `.env` 文件，添加以下配置：
+### agent_proj 项目
+
+在 `agent_proj` 目录下创建或编辑 `.env` 文件，添加以下配置：
 
 ```bash
 # 豆包 AI (DoubaoAI) 配置
@@ -14,6 +16,24 @@ DOUBAO_TOP_P=0.9
 ```
 
 ## 快速配置命令
+
+```bash
+# 在 agent_proj 目录下执行
+cd agent_proj
+cat >> .env << 'EOF'
+
+# 豆包 AI 配置
+DOUBAO_API_KEY=e8995123-8a55-4529-ae57-cd3f5fbd5eaf
+DOUBAO_BASE_URL=https://ark.cn-beijing.volces.com/api/v3/
+DOUBAO_MODEL=ep-20240527113904-mrr8p
+DOUBAO_TEMPERATURE=0.2
+DOUBAO_TOP_P=0.9
+EOF
+```
+
+### agent_test 项目
+
+在项目根目录创建或编辑 `.env` 文件，添加相同配置。
 
 ```bash
 # 在项目根目录执行

@@ -10,9 +10,9 @@ import os
 from dotenv import load_dotenv
 from pathlib import Path
 
-# 加载项目根目录的 .env 文件
-project_root = Path(__file__).parent.parent
-env_path = project_root / ".env"
+# 加载 agent_proj 目录的 .env 文件
+current_dir = Path(__file__).parent
+env_path = current_dir / ".env"
 load_dotenv(dotenv_path=env_path)
 
 def get_llm(temperature=None, model_name=None):
@@ -37,7 +37,7 @@ def get_llm(temperature=None, model_name=None):
     if not api_key:
         raise ValueError(
             "未找到豆包 AI 的 API Key！\n"
-            "请在项目根目录的 .env 文件中配置:\n"
+            "请在 agent_proj/.env 文件中配置:\n"
             "  DOUBAO_API_KEY=your_api_key_here\n"
             "  DOUBAO_BASE_URL=https://ark.cn-beijing.volces.com/api/v3/\n"
             "  DOUBAO_MODEL=your_model_endpoint_id\n"
