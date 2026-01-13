@@ -66,3 +66,8 @@ chroma_db/
 .env.local
 .coverage
 htmlcov/ 
+# SQLite数据库文件（包括checkpoints和其他运行时数据库）
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db

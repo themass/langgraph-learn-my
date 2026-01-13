@@ -78,11 +78,6 @@ async def main():
         graph = build_graph(checkpointer=checkpointer)
         print("✅ Graph Compiled")
         
-        # 3. 编译图 (带 checkpointer)
-        print("\n[2] Compiling Graph with Persistence...")
-        graph = build_graph(checkpointer=checkpointer)
-        print("✅ Graph Compiled")
-        
         # 4. 初始化配置
         thread_id = str(uuid.uuid4())
         config = {"configurable": {"thread_id": thread_id}}
