@@ -141,7 +141,7 @@ def planner_node(state: AgentState) -> Dict:
     print(f"📋 【生成的研究计划】")
     print(f"{'='*80}")
     print(f"   prompt:\n {messages}")
-    print(f"   output:\n {result.model_dump_json(indent=2, ensure_ascii=False)}")
+    print(f"   output:\n {result.model_dump_json(indent=2)}")
     for i, step in enumerate(result.plan, 1):
         print(f"   步骤 {i}: {step.description}")
         print(f"      • ID: {step.id}")
